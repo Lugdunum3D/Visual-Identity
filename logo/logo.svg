@@ -9,16 +9,16 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="302.2226mm"
+   width="298.47498mm"
    height="176.51132mm"
-   viewBox="0 0 302.22261 176.51058"
+   viewBox="0 0 298.47499 176.51058"
    version="1.1"
    id="svg169"
    sodipodi:docname="logo.svg"
    inkscape:version="0.92.0 r"
-   inkscape:export-filename="/home/arch/lugdunum-logo/logo/logo.png"
-   inkscape:export-xdpi="140.05504"
-   inkscape:export-ydpi="140.05504">
+   inkscape:export-filename="/home/arch/git/lugdunum/Visual-Identity/logo/logo.png"
+   inkscape:export-xdpi="149.25999"
+   inkscape:export-ydpi="149.25999">
   <metadata
      id="metadata173">
     <rdf:RDF>
@@ -27,7 +27,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -44,9 +44,9 @@
      inkscape:window-height="1053"
      id="namedview171"
      showgrid="false"
-     inkscape:zoom="1.1296016"
-     inkscape:cx="551.32877"
-     inkscape:cy="256.31197"
+     inkscape:zoom="0.79874895"
+     inkscape:cx="421.74959"
+     inkscape:cy="155.70822"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -264,7 +264,7 @@
     <linearGradient
        inkscape:collect="always"
        xlink:href="#sub-text-color"
-       id="linearGradient4698"
+       id="linearGradient4635"
        gradientUnits="userSpaceOnUse"
        x1="83.331001"
        y1="-9.2189999"
@@ -273,7 +273,7 @@
     <linearGradient
        inkscape:collect="always"
        xlink:href="#sub-text-color"
-       id="linearGradient4700"
+       id="linearGradient4637"
        gradientUnits="userSpaceOnUse"
        gradientTransform="translate(7.490611,95.17443)"
        x1="153.513"
@@ -283,7 +283,7 @@
     <linearGradient
        inkscape:collect="always"
        xlink:href="#sub-text-color"
-       id="linearGradient4702"
+       id="linearGradient4639"
        gradientUnits="userSpaceOnUse"
        x1="628.83801"
        y1="681.55499"
@@ -292,7 +292,7 @@
     <linearGradient
        inkscape:collect="always"
        xlink:href="#sub-text-dark-color-3"
-       id="linearGradient4704"
+       id="linearGradient4641"
        gradientUnits="userSpaceOnUse"
        x1="83.331001"
        y1="-9.2189999"
@@ -301,7 +301,7 @@
     <linearGradient
        inkscape:collect="always"
        xlink:href="#sub-text-dark-color-3"
-       id="linearGradient4706"
+       id="linearGradient4643"
        gradientUnits="userSpaceOnUse"
        gradientTransform="translate(7.490611,95.17443)"
        x1="153.513"
@@ -311,9 +311,9 @@
   </defs>
   <g
      id="long"
-     transform="translate(16.76619,-110.17516)"
-     inkscape:export-xdpi="300.10672"
-     inkscape:export-ydpi="300.10672">
+     transform="translate(16.76619,-110.17508)"
+     inkscape:export-xdpi="159.84"
+     inkscape:export-ydpi="159.84">
     <path
        id="path33"
        d="m 0,164.362 h 110.792 v 36.833 H 0 Z"
@@ -356,14 +356,14 @@
        font-weight="400"
        y="-7.4829998"
        x="117.77"
-       style="font-weight:400;font-size:0.76499999px;line-height:14.69099045px;font-family:Arial;-inkscape-font-specification:Arial;text-align:end;letter-spacing:0;word-spacing:0;text-anchor:end;fill:url(#linearGradient4698);stroke-width:1.16600001"
+       style="font-weight:400;font-size:0.76499999px;line-height:14.69099045px;font-family:Arial;-inkscape-font-specification:Arial;text-align:end;letter-spacing:0;word-spacing:0;text-anchor:end;fill:url(#linearGradient4635);stroke-width:1.16600001"
        transform="translate(-13.633,204.777)">
       <tspan
          id="tspan43"
          letter-spacing="-.547"
          font-size="6.122"
          font-stretch="semi-condensed"
-         style="font-stretch:semi-condensed;font-size:6.12200022px;font-family:'Input Sans Narrow';-inkscape-font-specification:'Input Sans Narrow Semi-Condensed';text-align:end;letter-spacing:-0.58208334px;fill:url(#linearGradient4698)"
+         style="font-stretch:semi-condensed;font-size:6.12200022px;font-family:'Input Sans Narrow';-inkscape-font-specification:'Input Sans Narrow Semi-Condensed';text-align:end;letter-spacing:-0.58208334px;fill:url(#linearGradient4635)"
          y="-7.4829998"
          x="117.223">game engine</tspan>
     </text>
@@ -448,9 +448,9 @@
   </g>
   <g
      id="short"
-     transform="translate(2.7125622,1.3386651)"
-     inkscape:export-xdpi="300.10672"
-     inkscape:export-ydpi="300.10672">
+     transform="translate(2.7125617,1.3387428)"
+     inkscape:export-xdpi="159.84"
+     inkscape:export-ydpi="159.84">
     <rect
        y="48.491428"
        x="155.21243"
@@ -475,7 +475,7 @@
          letter-spacing="0"
          font-size=".765"
          font-weight="400"
-         style="font-weight:400;font-size:0.76499999px;line-height:14.69099045px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0;word-spacing:0;text-anchor:middle;fill:url(#linearGradient4700);stroke-width:1.16600001"
+         style="font-weight:400;font-size:0.76499999px;line-height:14.69099045px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0;word-spacing:0;text-anchor:middle;fill:url(#linearGradient4637);stroke-width:1.16600001"
          x="177.95361"
          y="87.363434">
         <tspan
@@ -485,7 +485,7 @@
            font-stretch="semi-condensed"
            x="177.68062"
            y="87.363434"
-           style="font-stretch:semi-condensed;font-size:6.12200022px;font-family:'Input Sans Narrow';-inkscape-font-specification:'Input Sans Narrow Semi-Condensed';text-align:center;letter-spacing:-0.58208334px;fill:url(#linearGradient4700)">game engine</tspan>
+           style="font-stretch:semi-condensed;font-size:6.12200022px;font-family:'Input Sans Narrow';-inkscape-font-specification:'Input Sans Narrow Semi-Condensed';text-align:center;letter-spacing:-0.58208334px;fill:url(#linearGradient4637)">game engine</tspan>
       </text>
       <g
          style="color:#000000;font-weight:400;font-family:Arial;letter-spacing:0;word-spacing:0;text-anchor:middle"
@@ -572,9 +572,9 @@
   </g>
   <g
      id="short-shadowed"
-     transform="translate(16.766177,98.057838)"
-     inkscape:export-xdpi="300.10672"
-     inkscape:export-ydpi="300.10672">
+     transform="translate(16.766177,98.057916)"
+     inkscape:export-xdpi="159.84"
+     inkscape:export-ydpi="159.84">
     <rect
        transform="matrix(4.1321,0,0,4.1321,-266.559,-500.113)"
        style="color:#000000;overflow:visible;opacity:0.07000002;marker:none;filter:url(#k);enable-background:accumulate"
@@ -608,7 +608,7 @@
          id="path73"
          inkscape:connector-curvature="0" />
       <text
-         style="font-size:0.65600002px;line-height:12.59760952px;-inkscape-font-specification:Arial;text-align:center;fill:url(#linearGradient4702)"
+         style="font-size:0.65600002px;line-height:12.59760952px;-inkscape-font-specification:Arial;text-align:center;fill:url(#linearGradient4639)"
          x="643.37299"
          y="683.04401"
          font-size=".656"
@@ -617,7 +617,7 @@
         <tspan
            x="643.138"
            y="683.04401"
-           style="font-stretch:semi-condensed;font-size:5.24900007px;font-family:'Input Sans Narrow';-inkscape-font-specification:'Input Sans Narrow Semi-Condensed';text-align:center;letter-spacing:-0.49914107px;fill:url(#linearGradient4702)"
+           style="font-stretch:semi-condensed;font-size:5.24900007px;font-family:'Input Sans Narrow';-inkscape-font-specification:'Input Sans Narrow Semi-Condensed';text-align:center;letter-spacing:-0.49914107px;fill:url(#linearGradient4639)"
            font-stretch="semi-condensed"
            font-size="5.249"
            letter-spacing="-.469"
@@ -706,12 +706,14 @@
      width="205.04201"
      height="57.519302"
      x="10.000001"
-     y="108.99158" />
+     y="108.99165"
+     inkscape:export-xdpi="159.84"
+     inkscape:export-ydpi="159.84" />
   <g
-     transform="translate(16.76619,-45.148823)"
+     transform="translate(16.76619,-45.148745)"
      id="long-dark"
-     inkscape:export-xdpi="300.10672"
-     inkscape:export-ydpi="300.10672">
+     inkscape:export-xdpi="159.84"
+     inkscape:export-ydpi="159.84">
     <path
        inkscape:connector-curvature="0"
        style="color:#000000;overflow:visible;fill:none;marker:none;enable-background:accumulate"
@@ -747,7 +749,7 @@
          id="tspan5994">dunum</tspan>
     </text>
     <text
-       style="font-weight:400;font-size:0.76499999px;line-height:14.69099045px;font-family:Arial;-inkscape-font-specification:Arial;text-align:end;letter-spacing:0;word-spacing:0;text-anchor:end;fill:url(#linearGradient4704);fill-opacity:1;stroke-width:1.16600001"
+       style="font-weight:400;font-size:0.76499999px;line-height:14.69099045px;font-family:Arial;-inkscape-font-specification:Arial;text-align:end;letter-spacing:0;word-spacing:0;text-anchor:end;fill:url(#linearGradient4641);fill-opacity:1;stroke-width:1.16600001"
        x="117.77"
        y="-7.4829998"
        font-weight="400"
@@ -759,7 +761,7 @@
       <tspan
          x="117.223"
          y="-7.4829998"
-         style="font-stretch:semi-condensed;font-size:6.12200022px;font-family:'Input Sans Narrow';-inkscape-font-specification:'Input Sans Narrow Semi-Condensed';text-align:end;letter-spacing:-0.58208334px;fill:url(#linearGradient4704);fill-opacity:1"
+         style="font-stretch:semi-condensed;font-size:6.12200022px;font-family:'Input Sans Narrow';-inkscape-font-specification:'Input Sans Narrow Semi-Condensed';text-align:end;letter-spacing:-0.58208334px;fill:url(#linearGradient4641);fill-opacity:1"
          font-stretch="semi-condensed"
          font-size="6.122"
          letter-spacing="-.547"
@@ -846,7 +848,9 @@
   </g>
   <g
      id="g4661"
-     transform="translate(2.7125622,1.7854134)">
+     transform="translate(2.7125617,1.7854911)"
+     inkscape:export-xdpi="159.84"
+     inkscape:export-ydpi="159.84">
     <g
        id="g4684"
        transform="translate(0.36176497)">
@@ -1000,10 +1004,10 @@
     </g>
   </g>
   <g
-     transform="translate(2.7125622,66.365004)"
+     transform="translate(2.7125617,66.365082)"
      id="short-dark"
-     inkscape:export-xdpi="300.10672"
-     inkscape:export-ydpi="300.10672">
+     inkscape:export-xdpi="159.84"
+     inkscape:export-ydpi="159.84">
     <rect
        style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#000000;fill-opacity:0;fill-rule:nonzero;stroke:none;stroke-width:0.10338347;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
        id="rect4836"
@@ -1025,14 +1029,14 @@
       <text
          y="87.363434"
          x="177.95361"
-         style="font-weight:400;font-size:0.76499999px;line-height:14.69099045px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0;word-spacing:0;text-anchor:middle;fill:url(#linearGradient4706);fill-opacity:1;stroke-width:1.16600001"
+         style="font-weight:400;font-size:0.76499999px;line-height:14.69099045px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0;word-spacing:0;text-anchor:middle;fill:url(#linearGradient4643);fill-opacity:1;stroke-width:1.16600001"
          font-weight="400"
          font-size=".765"
          letter-spacing="0"
          word-spacing="0"
          id="text4844">
         <tspan
-           style="font-stretch:semi-condensed;font-size:6.12200022px;font-family:'Input Sans Narrow';-inkscape-font-specification:'Input Sans Narrow Semi-Condensed';text-align:center;letter-spacing:-0.58208334px;fill:url(#linearGradient4706);fill-opacity:1"
+           style="font-stretch:semi-condensed;font-size:6.12200022px;font-family:'Input Sans Narrow';-inkscape-font-specification:'Input Sans Narrow Semi-Condensed';text-align:center;letter-spacing:-0.58208334px;fill:url(#linearGradient4643);fill-opacity:1"
            y="87.363434"
            x="177.68062"
            font-stretch="semi-condensed"
@@ -1124,13 +1128,17 @@
     </g>
   </g>
   <path
-     style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.26458335px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     d="M 10.000001,41.52392 H 292.22262"
+     style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.26282078px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="M 10.000001,41.523998 H 288.47499"
      id="path4636"
-     inkscape:connector-curvature="0" />
+     inkscape:connector-curvature="0"
+     inkscape:export-xdpi="159.84"
+     inkscape:export-ydpi="159.84" />
   <path
      inkscape:connector-curvature="0"
      id="path4638"
-     d="M 10.000001,104.05677 H 292.22262"
-     style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.26458335px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+     d="M 10.000001,104.05685 H 288.47499"
+     style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.26282078px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     inkscape:export-xdpi="159.84"
+     inkscape:export-ydpi="159.84" />
 </svg>
