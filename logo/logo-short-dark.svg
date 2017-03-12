@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="45.54649mm"
+   height="45.54649mm"
+   viewBox="0 0 45.54649 45.54649"
+   version="1.1"
+   id="svg6795"
+   inkscape:version="0.92.1 r"
+   sodipodi:docname="logo-short-dark.svg">
+  <defs
+     id="defs6789">
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#background-dark-color-6"
+       id="linearGradient4902"
+       gradientTransform="rotate(180,-15.590343,-11.6405)"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       id="background-dark-color-6"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#6d6d6d;stop-opacity:1;"
+         offset="0"
+         id="stop6170" />
+    </linearGradient>
+    <linearGradient
+       id="sub-text-dark-color-3"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop6164" />
+    </linearGradient>
+    <filter
+       id="f"
+       x="-0.075000003"
+       width="1.151"
+       y="-0.112"
+       height="1.224"
+       style="color-interpolation-filters:sRGB">
+      <feGaussianBlur
+         stdDeviation=".982"
+         id="feGaussianBlur14" />
+    </filter>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#card-back-dark-color-7"
+       id="linearGradient4904"
+       gradientTransform="translate(38.672297,118.45543)"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       id="card-back-dark-color-7"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#9d9d9d;stop-opacity:1;"
+         offset="0"
+         id="stop6178" />
+    </linearGradient>
+    <filter
+       id="h"
+       x="-0.077"
+       width="1.155"
+       y="-0.108"
+       height="1.215"
+       style="color-interpolation-filters:sRGB">
+      <feGaussianBlur
+         stdDeviation="1.05"
+         id="feGaussianBlur17" />
+    </filter>
+    <linearGradient
+       id="main-color"
+       osb:paint="solid"
+       gradientTransform="translate(28.403634,118.45543)">
+      <stop
+         offset="0"
+         stop-color="#5cbdff"
+         id="stop11" />
+    </linearGradient>
+    <filter
+       id="j"
+       x="-0.068000004"
+       width="1.137"
+       y="-0.106"
+       height="1.212"
+       style="color-interpolation-filters:sRGB">
+      <feGaussianBlur
+         stdDeviation=".788"
+         id="feGaussianBlur20" />
+    </filter>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#sub-text-dark-color-3"
+       id="linearGradient7418"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(7.490611,95.17443)"
+       x1="153.513"
+       y1="-9.5469999"
+       x2="187.427"
+       y2="-9.5469999" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="-492.49932"
+     inkscape:cy="86.072106"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1920"
+     inkscape:window-height="1053"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata6792">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-83.060089,-126.06009)">
+    <g
+       transform="translate(-72.152344,77.56866)"
+       id="short-dark"
+       inkscape:export-xdpi="159.84"
+       inkscape:export-ydpi="159.84">
+      <rect
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#000000;fill-opacity:0;fill-rule:nonzero;stroke:none;stroke-width:0.10338347;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+         id="rect4836"
+         width="45.54649"
+         height="45.54649"
+         x="155.21243"
+         y="48.491428" />
+      <g
+         id="g4868">
+        <path
+           style="color:#000000;font-weight:400;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0;word-spacing:0;text-anchor:middle;overflow:visible;fill:url(#linearGradient4902);fill-opacity:1;marker:none;enable-background:accumulate"
+           font-weight="400"
+           letter-spacing="0"
+           word-spacing="0"
+           overflow="visible"
+           d="m 195.44061,77.67843 h -34.958 v -20.353 h 34.958 z"
+           id="path4838"
+           inkscape:connector-curvature="0" />
+        <text
+           y="87.363434"
+           x="177.95361"
+           style="font-weight:400;font-size:0.76499999px;line-height:14.69099045px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0;word-spacing:0;text-anchor:middle;fill:url(#linearGradient7418);fill-opacity:1;stroke-width:1.16600001"
+           font-weight="400"
+           font-size=".765"
+           letter-spacing="0"
+           word-spacing="0"
+           id="text4844">
+          <tspan
+             style="font-stretch:semi-condensed;font-size:6.12200022px;font-family:'Input Sans Narrow';-inkscape-font-specification:'Input Sans Narrow Semi-Condensed';text-align:center;letter-spacing:-0.58208334px;fill:url(#linearGradient7418);fill-opacity:1"
+             y="87.363434"
+             x="177.68062"
+             font-stretch="semi-condensed"
+             font-size="6.122"
+             letter-spacing="-.547"
+             id="tspan4842">game engine</tspan>
+        </text>
+        <g
+           transform="translate(21.123611,-111.95957)"
+           font-weight="400"
+           letter-spacing="0"
+           word-spacing="0"
+           id="g4850"
+           style="color:#000000;font-weight:400;font-family:Arial;letter-spacing:0;word-spacing:0;text-anchor:middle">
+          <path
+             style="line-height:125%;-inkscape-font-specification:Arial;text-align:center;overflow:visible;opacity:0.15;fill:#090d00;marker:none;filter:url(#f);enable-background:accumulate"
+             transform="matrix(-1.1617324,-0.10163841,0.10163841,-1.1617324,-468.18411,-597.2226)"
+             overflow="visible"
+             d="m -606.91,-625.956 h 29.821 v 18.531 h -29.821 z"
+             id="path4846"
+             inkscape:connector-curvature="0" />
+          <path
+             transform="matrix(-1.1617324,-0.10163841,0.10163841,-1.1617324,-593.45202,-597.22272)"
+             style="line-height:125%;-inkscape-font-specification:Arial;text-align:center;overflow:visible;fill:url(#linearGradient4904);fill-opacity:1;marker:none;enable-background:accumulate"
+             overflow="visible"
+             d="m -713.919,-616.594 h 29.821 v 18.531 h -29.821 z"
+             id="path4848"
+             inkscape:connector-curvature="0" />
+        </g>
+        <g
+           transform="translate(21.123611,-111.95957)"
+           font-weight="400"
+           letter-spacing="0"
+           word-spacing="0"
+           id="g4856"
+           style="color:#000000;font-weight:400;font-family:Arial;letter-spacing:0;word-spacing:0;text-anchor:middle">
+          <path
+             transform="matrix(-1.1484533,-0.2025033,0.2025033,-1.1484533,-468.18409,-597.22257)"
+             style="line-height:125%;-inkscape-font-specification:Arial;text-align:center;overflow:visible;opacity:0.15;fill-opacity:0.99299999;marker:none;filter:url(#h);enable-background:accumulate"
+             overflow="visible"
+             d="m -658.405,-572.013 h 29.821 v 18.531 h -29.821 z"
+             id="path4852"
+             inkscape:connector-curvature="0" />
+          <path
+             style="line-height:125%;-inkscape-font-specification:Arial;text-align:center;overflow:visible;fill:url(#main-color);marker:none;enable-background:accumulate"
+             transform="matrix(-1.1484533,-0.2025033,0.2025033,-1.1484533,-593.45201,-597.22259)"
+             overflow="visible"
+             d="m -764.192,-553.36 h 29.821 v 18.531 h -29.821 z"
+             id="path4854"
+             inkscape:connector-curvature="0" />
+        </g>
+        <g
+           transform="translate(21.123611,-111.95957)"
+           font-weight="400"
+           font-size="19.5"
+           letter-spacing="0"
+           word-spacing="0"
+           id="g4866"
+           style="font-weight:400;font-size:19.5px;font-family:Arial;letter-spacing:0;word-spacing:0;text-anchor:middle">
+          <text
+             style="line-height:125%;-inkscape-font-specification:Arial;text-align:center;opacity:0.07000002;fill:#010000;filter:url(#j)"
+             x="648.37299"
+             y="671.409"
+             transform="matrix(1.16617,0,-0.00235,1.16617,-615.34,-597.224)"
+             id="text4860">
+            <tspan
+               x="648.37299"
+               y="671.409"
+               style="font-stretch:semi-condensed;font-family:'Input Sans Narrow';-inkscape-font-specification:'Input Sans Narrow Semi-Condensed';text-align:start;letter-spacing:-1.20000005;text-anchor:start"
+               font-stretch="semi-condensed"
+               letter-spacing="-1.2"
+               id="tspan4858">lug</tspan>
+          </text>
+          <text
+             transform="matrix(1.16617,0,-0.00235,1.16617,-593.454,-597.224)"
+             y="671.409"
+             x="629.60498"
+             style="line-height:125%;-inkscape-font-specification:Arial;text-align:center"
+             id="text4864">
+            <tspan
+               style="font-stretch:semi-condensed;font-family:'Input Sans Narrow';-inkscape-font-specification:'Input Sans Narrow Semi-Condensed';text-align:start;letter-spacing:-1.20000005;text-anchor:start;fill:#ffffff"
+               y="671.409"
+               x="629.60498"
+               font-stretch="semi-condensed"
+               letter-spacing="-1.2"
+               id="tspan4862">lug</tspan>
+          </text>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
