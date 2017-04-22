@@ -40,3 +40,5 @@ $(LOGO): $(SRC)
 
 clean:
 	rm -r dist $(LOGO)
+
+.PHONY: clean
