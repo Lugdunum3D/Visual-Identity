@@ -15,7 +15,7 @@
    version="1.1"
    id="svg169"
    sodipodi:docname="logo.svg"
-   inkscape:version="0.92.0 r"
+   inkscape:version="0.92.1 r"
    inkscape:export-filename="/home/arch/git/lugdunum/Visual-Identity/logo/logo.png"
    inkscape:export-xdpi="149.25999"
    inkscape:export-ydpi="149.25999">
@@ -44,13 +44,13 @@
      inkscape:window-height="1053"
      id="namedview171"
      showgrid="false"
-     inkscape:zoom="0.79874895"
-     inkscape:cx="421.74959"
-     inkscape:cy="155.70822"
+     inkscape:zoom="1.1296016"
+     inkscape:cx="504.69574"
+     inkscape:cy="310.06656"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg169"
+     inkscape:current-layer="layer6"
      fit-margin-top="10"
      fit-margin-left="10"
      fit-margin-right="10"
@@ -310,835 +310,873 @@
        y2="-9.5469999" />
   </defs>
   <g
-     id="long"
-     transform="translate(16.76619,-110.17508)"
-     inkscape:export-xdpi="159.84"
-     inkscape:export-ydpi="159.84">
-    <path
-       id="path33"
-       d="m 0,164.362 h 110.792 v 36.833 H 0 Z"
-       overflow="visible"
-       style="color:#000000;overflow:visible;fill:none;marker:none;enable-background:accumulate"
-       inkscape:connector-curvature="0" />
-    <path
-       id="path35"
-       d="M -120.404,13.039 H -18.383 V 33.392 H -120.404 Z"
-       overflow="visible"
-       word-spacing="0"
-       letter-spacing="0"
-       font-weight="400"
-       transform="rotate(180,-6.816,102.388)"
-       style="color:#000000;font-weight:400;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0;word-spacing:0;text-anchor:middle;overflow:visible;fill:url(#d);marker:none;enable-background:accumulate"
-       inkscape:connector-curvature="0" />
-    <text
-       id="text39"
-       transform="translate(-13.633,204.777)"
-       word-spacing="0"
-       letter-spacing="0"
-       font-size="22.74"
-       font-weight="400"
-       y="-16.853001"
-       x="51.195999"
-       style="font-weight:400;font-size:22.73999977px;line-height:14.69099045px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0;word-spacing:0;text-anchor:middle;stroke-width:1.16600001">
-      <tspan
-         id="tspan37"
-         letter-spacing="-1.399"
-         font-stretch="semi-condensed"
-         style="font-stretch:semi-condensed;line-height:14.69099045px;font-family:'Input Sans Narrow';-inkscape-font-specification:'Input Sans Narrow Semi-Condensed';text-align:start;letter-spacing:-1.39900005;text-anchor:start;fill:#ffffff"
-         y="-16.853001"
-         x="51.195999">dunum</tspan>
-    </text>
-    <text
-       id="text45"
-       word-spacing="0"
-       letter-spacing="0"
-       font-size=".765"
-       font-weight="400"
-       y="-7.4829998"
-       x="117.77"
-       style="font-weight:400;font-size:0.76499999px;line-height:14.69099045px;font-family:Arial;-inkscape-font-specification:Arial;text-align:end;letter-spacing:0;word-spacing:0;text-anchor:end;fill:url(#linearGradient4635);stroke-width:1.16600001"
-       transform="translate(-13.633,204.777)">
-      <tspan
-         id="tspan43"
-         letter-spacing="-.547"
-         font-size="6.122"
-         font-stretch="semi-condensed"
-         style="font-stretch:semi-condensed;font-size:6.12200022px;font-family:'Input Sans Narrow';-inkscape-font-specification:'Input Sans Narrow Semi-Condensed';text-align:end;letter-spacing:-0.58208334px;fill:url(#linearGradient4635)"
-         y="-7.4829998"
-         x="117.223">game engine</tspan>
-    </text>
+     inkscape:groupmode="layer"
+     id="layer6"
+     inkscape:label="background"
+     style="display:inline">
+    <rect
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#2d2d2d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.09013658;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       id="rect6154"
+       width="205.04201"
+       height="57.519302"
+       x="10.000001"
+       y="108.99165"
+       inkscape:export-xdpi="159.84"
+       inkscape:export-ydpi="159.84" />
     <g
-       id="g51"
-       word-spacing="0"
-       letter-spacing="0"
-       font-weight="400"
-       style="color:#000000;font-weight:400;font-family:Arial;letter-spacing:0;word-spacing:0;text-anchor:middle">
-      <path
-         id="path47"
-         d="m -606.91,-625.956 h 29.821 v 18.531 h -29.821 z"
-         overflow="visible"
-         style="line-height:125%;-inkscape-font-specification:Arial;text-align:center;overflow:visible;opacity:0.15;fill:#090d00;marker:none;filter:url(#f);enable-background:accumulate"
-         transform="matrix(-1.1617324,-0.10163841,0.10163841,-1.1617324,-602.7924,-595.12301)"
-         inkscape:connector-curvature="0" />
-      <path
-         id="path49"
-         d="m -713.919,-616.594 h 29.821 v 18.531 h -29.821 z"
-         overflow="visible"
-         transform="matrix(-1.1617324,-0.10163841,0.10163841,-1.1617324,-728.06042,-595.12303)"
-         style="line-height:125%;-inkscape-font-specification:Arial;text-align:center;overflow:visible;fill:url(#g);marker:none;enable-background:accumulate"
-         inkscape:connector-curvature="0" />
+       style="display:inline"
+       id="g4661"
+       transform="translate(2.7125617,1.7854911)"
+       inkscape:export-xdpi="159.84"
+       inkscape:export-ydpi="159.84">
+      <g
+         id="g4684"
+         transform="translate(0.36176497)">
+        <path
+           inkscape:connector-curvature="0"
+           id="path143"
+           d="m 7.0579651,8.34643 h 6.9599999 v 4.301 H 7.0579651 Z"
+           overflow="visible"
+           style="color:#000000;overflow:visible;fill:url(#main-color);fill-opacity:1;stroke:#000000;stroke-width:0.26458335;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate" />
+        <text
+           id="text147"
+           word-spacing="0"
+           letter-spacing="0"
+           font-size="2.679"
+           font-weight="400"
+           style="font-weight:400;font-size:2.6789999px;line-height:6.69714594px;font-family:Noteworthy;-inkscape-font-specification:Noteworthy;text-align:center;letter-spacing:0;word-spacing:0;text-anchor:middle;stroke-width:0.26800001"
+           x="15.107965"
+           y="11.503427">
+          <tspan
+             id="tspan145"
+             x="15.107965"
+             y="11.503427"
+             style="font-family:monospace;-inkscape-font-specification:monospace;text-align:start;text-anchor:start">main-color</tspan>
+        </text>
+        <path
+           inkscape:connector-curvature="0"
+           id="path149"
+           d="m 7.0579651,13.63843 h 6.9599999 v 4.301 H 7.0579651 Z"
+           overflow="visible"
+           style="color:#000000;overflow:visible;fill:url(#card-back-color);fill-opacity:1;stroke:#000000;stroke-width:0.26458335;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate" />
+        <text
+           id="text153"
+           word-spacing="0"
+           letter-spacing="0"
+           font-size="2.679"
+           font-weight="400"
+           y="16.794426"
+           x="15.107965"
+           style="font-weight:400;font-size:2.6789999px;line-height:6.69714594px;font-family:Noteworthy;-inkscape-font-specification:Noteworthy;text-align:center;letter-spacing:0;word-spacing:0;text-anchor:middle;stroke-width:0.26800001">
+          <tspan
+             id="tspan151"
+             style="font-family:monospace;-inkscape-font-specification:monospace;text-align:start;text-anchor:start"
+             y="16.794426"
+             x="15.107965">card-back-color</tspan>
+        </text>
+        <path
+           inkscape:connector-curvature="0"
+           id="path155"
+           d="m 7.0579651,18.92943 h 6.9599999 v 4.301 H 7.0579651 Z"
+           overflow="visible"
+           style="color:#000000;overflow:visible;fill:url(#background-color);stroke:#000000;stroke-width:0.26458335;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate" />
+        <text
+           id="text159"
+           word-spacing="0"
+           letter-spacing="0"
+           font-size="2.679"
+           font-weight="400"
+           style="font-weight:400;font-size:2.6789999px;line-height:6.69714594px;font-family:Noteworthy;-inkscape-font-specification:Noteworthy;text-align:center;letter-spacing:0;word-spacing:0;text-anchor:middle;stroke-width:0.26800001"
+           x="15.107965"
+           y="22.086426">
+          <tspan
+             id="tspan157"
+             x="15.107965"
+             y="22.086426"
+             style="font-family:monospace;-inkscape-font-specification:monospace;text-align:start;text-anchor:start">background-color</tspan>
+        </text>
+        <path
+           inkscape:connector-curvature="0"
+           id="path161"
+           d="m 7.0579651,24.22143 h 6.9599999 v 4.301 H 7.0579651 Z"
+           overflow="visible"
+           style="color:#000000;overflow:visible;fill:url(#sub-text-color);stroke:#000000;stroke-width:0.26458335;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate" />
+        <text
+           id="text165"
+           word-spacing="0"
+           letter-spacing="0"
+           font-size="2.679"
+           font-weight="400"
+           y="27.378426"
+           x="15.107965"
+           style="font-weight:400;font-size:2.6789999px;line-height:6.69714594px;font-family:Noteworthy;-inkscape-font-specification:Noteworthy;text-align:center;letter-spacing:0;word-spacing:0;text-anchor:middle;stroke-width:0.26800001">
+          <tspan
+             id="tspan163"
+             style="font-family:monospace;-inkscape-font-specification:monospace;text-align:start;text-anchor:start"
+             y="27.378426"
+             x="15.107965">sub-text-color</tspan>
+        </text>
+        <path
+           style="color:#000000;overflow:visible;fill:url(#linearGradient6182);fill-opacity:1;stroke:#000000;stroke-width:0.26458335;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate"
+           overflow="visible"
+           d="m 44.099634,13.63843 h 6.96 v 4.301 h -6.96 z"
+           id="path6136"
+           inkscape:connector-curvature="0" />
+        <text
+           style="font-weight:400;font-size:2.6789999px;line-height:6.69714594px;font-family:Noteworthy;-inkscape-font-specification:Noteworthy;text-align:center;letter-spacing:0;word-spacing:0;text-anchor:middle;stroke-width:0.26800001"
+           x="52.149643"
+           y="16.794426"
+           font-weight="400"
+           font-size="2.679"
+           letter-spacing="0"
+           word-spacing="0"
+           id="text6140">
+          <tspan
+             x="52.149643"
+             y="16.794426"
+             style="font-family:monospace;-inkscape-font-specification:monospace;text-align:start;text-anchor:start"
+             id="tspan6138">card-back-dark-color</tspan>
+        </text>
+        <path
+           style="color:#000000;overflow:visible;fill:url(#linearGradient6174);fill-opacity:1;stroke:#000000;stroke-width:0.26458335;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate"
+           overflow="visible"
+           d="m 44.099634,18.92943 h 6.96 v 4.301 h -6.96 z"
+           id="path6142"
+           inkscape:connector-curvature="0" />
+        <text
+           y="22.086426"
+           x="52.149643"
+           style="font-weight:400;font-size:2.6789999px;line-height:6.69714594px;font-family:Noteworthy;-inkscape-font-specification:Noteworthy;text-align:center;letter-spacing:0;word-spacing:0;text-anchor:middle;stroke-width:0.26800001"
+           font-weight="400"
+           font-size="2.679"
+           letter-spacing="0"
+           word-spacing="0"
+           id="text6146">
+          <tspan
+             style="font-family:monospace;-inkscape-font-specification:monospace;text-align:start;text-anchor:start"
+             y="22.086426"
+             x="52.149643"
+             id="tspan6144">background-dark-color</tspan>
+        </text>
+        <path
+           style="color:#000000;overflow:visible;fill:url(#linearGradient6168);fill-opacity:1;stroke:#000000;stroke-width:0.26458335;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate"
+           overflow="visible"
+           d="m 44.099634,24.22143 h 6.96 v 4.301 h -6.96 z"
+           id="path6148"
+           inkscape:connector-curvature="0" />
+        <text
+           style="font-weight:400;font-size:2.6789999px;line-height:6.69714594px;font-family:Noteworthy;-inkscape-font-specification:Noteworthy;text-align:center;letter-spacing:0;word-spacing:0;text-anchor:middle;stroke-width:0.26800001"
+           x="52.149643"
+           y="27.378426"
+           font-weight="400"
+           font-size="2.679"
+           letter-spacing="0"
+           word-spacing="0"
+           id="text6152">
+          <tspan
+             x="52.149643"
+             y="27.378426"
+             style="font-family:monospace;-inkscape-font-specification:monospace;text-align:start;text-anchor:start"
+             id="tspan6150">sub-text-dark-color</tspan>
+        </text>
+      </g>
     </g>
+    <path
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.26282078px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 10.000001,41.523998 H 288.47499"
+       id="path4636"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="159.84"
+       inkscape:export-ydpi="159.84" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4638"
+       d="M 10.000001,104.05685 H 288.47499"
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.26282078px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-xdpi="159.84"
+       inkscape:export-ydpi="159.84" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="short-dark"
+     style="display:inline">
     <g
-       id="g57"
-       word-spacing="0"
-       letter-spacing="0"
-       font-weight="400"
-       style="color:#000000;font-weight:400;font-family:Arial;letter-spacing:0;word-spacing:0;text-anchor:middle">
-      <path
-         id="path53"
-         d="m -658.405,-572.013 h 29.821 v 18.531 h -29.821 z"
-         overflow="visible"
-         transform="matrix(-1.1484533,-0.2025033,0.2025033,-1.1484533,-602.79238,-595.12303)"
-         style="line-height:125%;-inkscape-font-specification:Arial;text-align:center;overflow:visible;opacity:0.15;fill-opacity:0.99299999;marker:none;filter:url(#h);enable-background:accumulate"
-         inkscape:connector-curvature="0" />
-      <path
-         id="path55"
-         d="m -764.192,-553.36 h 29.821 v 18.531 h -29.821 z"
-         overflow="visible"
-         style="line-height:125%;-inkscape-font-specification:Arial;text-align:center;overflow:visible;fill:url(#main-color);fill-opacity:1;marker:none;enable-background:accumulate"
-         transform="matrix(-1.1484533,-0.2025033,0.2025033,-1.1484533,-728.0605,-595.12307)"
-         inkscape:connector-curvature="0" />
-    </g>
-    <g
-       id="g67"
-       word-spacing="0"
-       letter-spacing="0"
-       font-size="19.5"
-       font-weight="400"
-       style="font-weight:400;font-size:19.5px;font-family:Arial;letter-spacing:0;word-spacing:0;text-anchor:middle">
-      <text
-         id="text61"
-         style="line-height:125%;-inkscape-font-specification:Arial;text-align:center;opacity:0.07000002;fill:#010000;filter:url(#j)"
-         x="648.37299"
-         y="671.409"
-         transform="matrix(1.16617,0,-0.00235,1.16617,-749.949,-595.124)">
-        <tspan
-           id="tspan59"
-           letter-spacing="-1.2"
-           font-stretch="semi-condensed"
-           x="648.37299"
-           y="671.409"
-           style="font-stretch:semi-condensed;font-family:'Input Sans Narrow';-inkscape-font-specification:'Input Sans Narrow Semi-Condensed';text-align:start;letter-spacing:-1.20000005;text-anchor:start">lug</tspan>
-      </text>
-      <text
-         id="text65"
-         transform="matrix(1.16617,0,-0.00235,1.16617,-728.062,-595.124)"
-         y="671.46899"
-         x="629.60498"
-         style="line-height:125%;-inkscape-font-specification:Arial;text-align:center">
-        <tspan
-           id="tspan63"
-           letter-spacing="-1.2"
-           font-stretch="semi-condensed"
-           style="font-stretch:semi-condensed;font-family:'Input Sans Narrow';-inkscape-font-specification:'Input Sans Narrow Semi-Condensed';text-align:start;letter-spacing:-1.20000005;text-anchor:start;fill:#ffffff"
-           y="671.46899"
-           x="629.60498">lug</tspan>
-      </text>
+       style="display:inline"
+       transform="translate(2.7125617,66.365082)"
+       id="short-dark"
+       inkscape:export-xdpi="159.84"
+       inkscape:export-ydpi="159.84">
+      <rect
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#000000;fill-opacity:0;fill-rule:nonzero;stroke:none;stroke-width:0.10338347;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+         id="rect4836"
+         width="45.54649"
+         height="45.54649"
+         x="155.21243"
+         y="48.491428" />
+      <g
+         id="g4868">
+        <path
+           style="color:#000000;font-weight:400;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0;word-spacing:0;text-anchor:middle;overflow:visible;fill:url(#linearGradient4902);fill-opacity:1;marker:none;enable-background:accumulate"
+           font-weight="400"
+           letter-spacing="0"
+           word-spacing="0"
+           overflow="visible"
+           d="m 195.44061,77.67843 h -34.958 v -20.353 h 34.958 z"
+           id="path4838"
+           inkscape:connector-curvature="0" />
+        <text
+           y="87.363434"
+           x="177.95361"
+           style="font-weight:400;font-size:0.76499999px;line-height:14.69099045px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0;word-spacing:0;text-anchor:middle;fill:url(#linearGradient4643);fill-opacity:1;stroke-width:1.16600001"
+           font-weight="400"
+           font-size=".765"
+           letter-spacing="0"
+           word-spacing="0"
+           id="text4844">
+          <tspan
+             style="font-stretch:semi-condensed;font-size:6.12200022px;font-family:'Input Sans Narrow';-inkscape-font-specification:'Input Sans Narrow Semi-Condensed';text-align:center;letter-spacing:-0.58208334px;fill:url(#linearGradient4643);fill-opacity:1"
+             y="87.363434"
+             x="177.68062"
+             font-stretch="semi-condensed"
+             font-size="6.122"
+             letter-spacing="-.547"
+             id="tspan4842">3D engine</tspan>
+        </text>
+        <g
+           transform="translate(21.123611,-111.95957)"
+           font-weight="400"
+           letter-spacing="0"
+           word-spacing="0"
+           id="g4850"
+           style="color:#000000;font-weight:400;font-family:Arial;letter-spacing:0;word-spacing:0;text-anchor:middle">
+          <path
+             style="line-height:125%;-inkscape-font-specification:Arial;text-align:center;overflow:visible;opacity:0.15;fill:#090d00;marker:none;filter:url(#f);enable-background:accumulate"
+             transform="matrix(-1.1617324,-0.10163841,0.10163841,-1.1617324,-468.18411,-597.2226)"
+             overflow="visible"
+             d="m -606.91,-625.956 h 29.821 v 18.531 h -29.821 z"
+             id="path4846"
+             inkscape:connector-curvature="0" />
+          <path
+             transform="matrix(-1.1617324,-0.10163841,0.10163841,-1.1617324,-593.45202,-597.22272)"
+             style="line-height:125%;-inkscape-font-specification:Arial;text-align:center;overflow:visible;fill:url(#linearGradient4904);fill-opacity:1;marker:none;enable-background:accumulate"
+             overflow="visible"
+             d="m -713.919,-616.594 h 29.821 v 18.531 h -29.821 z"
+             id="path4848"
+             inkscape:connector-curvature="0" />
+        </g>
+        <g
+           transform="translate(21.123611,-111.95957)"
+           font-weight="400"
+           letter-spacing="0"
+           word-spacing="0"
+           id="g4856"
+           style="color:#000000;font-weight:400;font-family:Arial;letter-spacing:0;word-spacing:0;text-anchor:middle">
+          <path
+             transform="matrix(-1.1484533,-0.2025033,0.2025033,-1.1484533,-468.18409,-597.22257)"
+             style="line-height:125%;-inkscape-font-specification:Arial;text-align:center;overflow:visible;opacity:0.15;fill-opacity:0.99299999;marker:none;filter:url(#h);enable-background:accumulate"
+             overflow="visible"
+             d="m -658.405,-572.013 h 29.821 v 18.531 h -29.821 z"
+             id="path4852"
+             inkscape:connector-curvature="0" />
+          <path
+             style="line-height:125%;-inkscape-font-specification:Arial;text-align:center;overflow:visible;fill:url(#main-color);marker:none;enable-background:accumulate"
+             transform="matrix(-1.1484533,-0.2025033,0.2025033,-1.1484533,-593.45201,-597.22259)"
+             overflow="visible"
+             d="m -764.192,-553.36 h 29.821 v 18.531 h -29.821 z"
+             id="path4854"
+             inkscape:connector-curvature="0" />
+        </g>
+        <g
+           transform="translate(21.123611,-111.95957)"
+           font-weight="400"
+           font-size="19.5"
+           letter-spacing="0"
+           word-spacing="0"
+           id="g4866"
+           style="font-weight:400;font-size:19.5px;font-family:Arial;letter-spacing:0;word-spacing:0;text-anchor:middle">
+          <text
+             style="line-height:125%;-inkscape-font-specification:Arial;text-align:center;opacity:0.07000002;fill:#010000;filter:url(#j)"
+             x="648.37299"
+             y="671.409"
+             transform="matrix(1.16617,0,-0.00235,1.16617,-615.34,-597.224)"
+             id="text4860">
+            <tspan
+               x="648.37299"
+               y="671.409"
+               style="font-stretch:semi-condensed;font-family:'Input Sans Narrow';-inkscape-font-specification:'Input Sans Narrow Semi-Condensed';text-align:start;letter-spacing:-1.20000005;text-anchor:start"
+               font-stretch="semi-condensed"
+               letter-spacing="-1.2"
+               id="tspan4858">lug</tspan>
+          </text>
+          <text
+             transform="matrix(1.16617,0,-0.00235,1.16617,-593.454,-597.224)"
+             y="671.409"
+             x="629.60498"
+             style="line-height:125%;-inkscape-font-specification:Arial;text-align:center"
+             id="text4864">
+            <tspan
+               style="font-stretch:semi-condensed;font-family:'Input Sans Narrow';-inkscape-font-specification:'Input Sans Narrow Semi-Condensed';text-align:start;letter-spacing:-1.20000005;text-anchor:start;fill:#ffffff"
+               y="671.409"
+               x="629.60498"
+               font-stretch="semi-condensed"
+               letter-spacing="-1.2"
+               id="tspan4862">lug</tspan>
+          </text>
+        </g>
+      </g>
     </g>
   </g>
   <g
-     id="short"
-     transform="translate(2.7125617,1.3387428)"
-     inkscape:export-xdpi="159.84"
-     inkscape:export-ydpi="159.84">
-    <rect
-       y="48.491428"
-       x="155.21243"
-       height="45.54649"
-       width="45.54649"
-       id="rect4634"
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#000000;fill-opacity:0;fill-rule:nonzero;stroke:none;stroke-width:0.10338347;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="long-dark">
     <g
-       id="g4675">
+       style="display:inline"
+       transform="translate(16.76619,-45.148745)"
+       id="long-dark"
+       inkscape:export-xdpi="159.84"
+       inkscape:export-ydpi="159.84">
       <path
          inkscape:connector-curvature="0"
-         id="path109"
-         d="m 195.44061,77.67843 h -34.958 v -20.353 h 34.958 z"
+         style="color:#000000;overflow:visible;fill:none;marker:none;enable-background:accumulate"
          overflow="visible"
-         word-spacing="0"
-         letter-spacing="0"
+         d="m 0,164.362 h 110.792 v 36.833 H 0 Z"
+         id="path5990" />
+      <path
+         inkscape:connector-curvature="0"
+         style="color:#000000;font-weight:400;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0;word-spacing:0;text-anchor:middle;overflow:visible;fill:url(#linearGradient6102);fill-opacity:1;marker:none;enable-background:accumulate"
+         transform="rotate(180,-6.816,102.388)"
          font-weight="400"
-         style="color:#000000;font-weight:400;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0;word-spacing:0;text-anchor:middle;overflow:visible;fill:url(#background-color);marker:none;enable-background:accumulate" />
+         letter-spacing="0"
+         word-spacing="0"
+         overflow="visible"
+         d="M -120.404,13.039 H -18.383 V 33.392 H -120.404 Z"
+         id="path5992" />
       <text
-         id="text115"
-         word-spacing="0"
-         letter-spacing="0"
-         font-size=".765"
+         style="font-weight:400;font-size:22.73999977px;line-height:14.69099045px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0;word-spacing:0;text-anchor:middle;stroke-width:1.16600001"
+         x="51.195999"
+         y="-16.853001"
          font-weight="400"
-         style="font-weight:400;font-size:0.76499999px;line-height:14.69099045px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0;word-spacing:0;text-anchor:middle;fill:url(#linearGradient4637);stroke-width:1.16600001"
-         x="177.95361"
-         y="87.363434">
+         font-size="22.74"
+         letter-spacing="0"
+         word-spacing="0"
+         transform="translate(-13.633,204.777)"
+         id="text5996">
         <tspan
-           id="tspan113"
-           letter-spacing="-.547"
-           font-size="6.122"
+           x="51.195999"
+           y="-16.853001"
+           style="font-stretch:semi-condensed;line-height:14.69099045px;font-family:'Input Sans Narrow';-inkscape-font-specification:'Input Sans Narrow Semi-Condensed';text-align:start;letter-spacing:-1.39900005;text-anchor:start;fill:#ffffff"
            font-stretch="semi-condensed"
-           x="177.68062"
-           y="87.363434"
-           style="font-stretch:semi-condensed;font-size:6.12200022px;font-family:'Input Sans Narrow';-inkscape-font-specification:'Input Sans Narrow Semi-Condensed';text-align:center;letter-spacing:-0.58208334px;fill:url(#linearGradient4637)">game engine</tspan>
+           letter-spacing="-1.399"
+           id="tspan5994">dunum</tspan>
+      </text>
+      <text
+         style="font-weight:400;font-size:0.76499999px;line-height:14.69099045px;font-family:Arial;-inkscape-font-specification:Arial;text-align:end;letter-spacing:0;word-spacing:0;text-anchor:end;fill:url(#linearGradient4641);fill-opacity:1;stroke-width:1.16600001"
+         x="117.77"
+         y="-7.4829998"
+         font-weight="400"
+         font-size=".765"
+         letter-spacing="0"
+         word-spacing="0"
+         transform="translate(-13.633,204.777)"
+         id="text6002">
+        <tspan
+           x="117.223"
+           y="-7.4829998"
+           style="font-stretch:semi-condensed;font-size:6.12200022px;font-family:'Input Sans Narrow';-inkscape-font-specification:'Input Sans Narrow Semi-Condensed';text-align:end;letter-spacing:-0.58208334px;fill:url(#linearGradient4641);fill-opacity:1"
+           font-stretch="semi-condensed"
+           font-size="6.122"
+           letter-spacing="-.547"
+           id="tspan6000">3D engine</tspan>
       </text>
       <g
          style="color:#000000;font-weight:400;font-family:Arial;letter-spacing:0;word-spacing:0;text-anchor:middle"
-         id="g121"
-         word-spacing="0"
-         letter-spacing="0"
          font-weight="400"
-         transform="translate(21.123611,-111.95957)">
+         letter-spacing="0"
+         word-spacing="0"
+         id="g6008">
         <path
            inkscape:connector-curvature="0"
-           id="path117"
+           transform="matrix(-1.1617324,-0.10163841,0.10163841,-1.1617324,-602.7924,-595.12301)"
+           style="line-height:125%;-inkscape-font-specification:Arial;text-align:center;overflow:visible;opacity:0.15;fill:#090d00;marker:none;filter:url(#f);enable-background:accumulate"
+           overflow="visible"
            d="m -606.91,-625.956 h 29.821 v 18.531 h -29.821 z"
-           overflow="visible"
-           transform="matrix(-1.1617324,-0.10163841,0.10163841,-1.1617324,-468.18411,-597.2226)"
-           style="line-height:125%;-inkscape-font-specification:Arial;text-align:center;overflow:visible;opacity:0.15;fill:#090d00;marker:none;filter:url(#f);enable-background:accumulate" />
+           id="path6004" />
         <path
            inkscape:connector-curvature="0"
-           id="path119"
-           d="m -713.919,-616.594 h 29.821 v 18.531 h -29.821 z"
+           style="line-height:125%;-inkscape-font-specification:Arial;text-align:center;overflow:visible;fill:url(#linearGradient6186);fill-opacity:1;marker:none;enable-background:accumulate"
+           transform="matrix(-1.1617324,-0.10163841,0.10163841,-1.1617324,-728.06042,-595.12303)"
            overflow="visible"
-           style="line-height:125%;-inkscape-font-specification:Arial;text-align:center;overflow:visible;fill:url(#card-back-color);marker:none;enable-background:accumulate"
-           transform="matrix(-1.1617324,-0.10163841,0.10163841,-1.1617324,-593.45202,-597.22272)" />
+           d="m -713.919,-616.594 h 29.821 v 18.531 h -29.821 z"
+           id="path6006" />
       </g>
       <g
          style="color:#000000;font-weight:400;font-family:Arial;letter-spacing:0;word-spacing:0;text-anchor:middle"
-         id="g127"
-         word-spacing="0"
-         letter-spacing="0"
          font-weight="400"
-         transform="translate(21.123611,-111.95957)">
+         letter-spacing="0"
+         word-spacing="0"
+         id="g6014">
         <path
            inkscape:connector-curvature="0"
-           id="path123"
-           d="m -658.405,-572.013 h 29.821 v 18.531 h -29.821 z"
-           overflow="visible"
            style="line-height:125%;-inkscape-font-specification:Arial;text-align:center;overflow:visible;opacity:0.15;fill-opacity:0.99299999;marker:none;filter:url(#h);enable-background:accumulate"
-           transform="matrix(-1.1484533,-0.2025033,0.2025033,-1.1484533,-468.18409,-597.22257)" />
+           transform="matrix(-1.1484533,-0.2025033,0.2025033,-1.1484533,-602.79238,-595.12303)"
+           overflow="visible"
+           d="m -658.405,-572.013 h 29.821 v 18.531 h -29.821 z"
+           id="path6010" />
         <path
            inkscape:connector-curvature="0"
-           id="path125"
-           d="m -764.192,-553.36 h 29.821 v 18.531 h -29.821 z"
+           transform="matrix(-1.1484533,-0.2025033,0.2025033,-1.1484533,-728.0605,-595.12307)"
+           style="line-height:125%;-inkscape-font-specification:Arial;text-align:center;overflow:visible;fill:url(#main-color);fill-opacity:1;marker:none;enable-background:accumulate"
            overflow="visible"
-           transform="matrix(-1.1484533,-0.2025033,0.2025033,-1.1484533,-593.45201,-597.22259)"
-           style="line-height:125%;-inkscape-font-specification:Arial;text-align:center;overflow:visible;fill:url(#main-color);marker:none;enable-background:accumulate" />
+           d="m -764.192,-553.36 h 29.821 v 18.531 h -29.821 z"
+           id="path6012" />
       </g>
       <g
          style="font-weight:400;font-size:19.5px;font-family:Arial;letter-spacing:0;word-spacing:0;text-anchor:middle"
-         id="g137"
-         word-spacing="0"
-         letter-spacing="0"
-         font-size="19.5"
          font-weight="400"
-         transform="translate(21.123611,-111.95957)">
-        <text
-           id="text131"
-           transform="matrix(1.16617,0,-0.00235,1.16617,-615.34,-597.224)"
-           y="671.409"
-           x="648.37299"
-           style="line-height:125%;-inkscape-font-specification:Arial;text-align:center;opacity:0.07000002;fill:#010000;filter:url(#j)">
-          <tspan
-             id="tspan129"
-             letter-spacing="-1.2"
-             font-stretch="semi-condensed"
-             style="font-stretch:semi-condensed;font-family:'Input Sans Narrow';-inkscape-font-specification:'Input Sans Narrow Semi-Condensed';text-align:start;letter-spacing:-1.20000005;text-anchor:start"
-             y="671.409"
-             x="648.37299">lug</tspan>
-        </text>
-        <text
-           id="text135"
-           style="line-height:125%;-inkscape-font-specification:Arial;text-align:center"
-           x="629.60498"
-           y="671.409"
-           transform="matrix(1.16617,0,-0.00235,1.16617,-593.454,-597.224)">
-          <tspan
-             id="tspan133"
-             letter-spacing="-1.2"
-             font-stretch="semi-condensed"
-             x="629.60498"
-             y="671.409"
-             style="font-stretch:semi-condensed;font-family:'Input Sans Narrow';-inkscape-font-specification:'Input Sans Narrow Semi-Condensed';text-align:start;letter-spacing:-1.20000005;text-anchor:start;fill:#ffffff">lug</tspan>
-        </text>
-      </g>
-    </g>
-  </g>
-  <g
-     id="short-shadowed"
-     transform="translate(16.766177,98.057916)"
-     inkscape:export-xdpi="159.84"
-     inkscape:export-ydpi="159.84">
-    <rect
-       transform="matrix(4.1321,0,0,4.1321,-266.559,-500.113)"
-       style="color:#000000;overflow:visible;opacity:0.07000002;marker:none;filter:url(#k);enable-background:accumulate"
-       width="10.944"
-       height="10.887"
-       x="118.167"
-       y="109.427"
-       ry="0.83600003"
-       overflow="visible"
-       id="rect69" />
-    <rect
-       ry="5.2069998"
-       y="-47.946999"
-       x="221.722"
-       height="44.985001"
-       width="45.222"
-       style="color:#000000;overflow:visible;fill:#ffffff;marker:none;enable-background:accumulate"
-       overflow="visible"
-       id="rect71" />
-    <g
-       font-weight="400"
-       letter-spacing="0"
-       word-spacing="0"
-       id="g103"
-       style="font-weight:400;font-family:Arial;letter-spacing:0;word-spacing:0;text-anchor:middle">
-      <path
-         style="color:#000000;line-height:125%;-inkscape-font-specification:Arial;text-align:center;overflow:visible;fill:url(#background-color);marker:none;enable-background:accumulate"
-         transform="matrix(-1.16617,0,0,-1.16617,-506.002,-805.203)"
-         overflow="visible"
-         d="m -658.367,-674.739 h 29.976 v 17.453 h -29.976 z"
-         id="path73"
-         inkscape:connector-curvature="0" />
-      <text
-         style="font-size:0.65600002px;line-height:12.59760952px;-inkscape-font-specification:Arial;text-align:center;fill:url(#linearGradient4639)"
-         x="643.37299"
-         y="683.04401"
-         font-size=".656"
-         transform="matrix(1.16617,0,0,1.16617,-506.002,-805.203)"
-         id="text79">
-        <tspan
-           x="643.138"
-           y="683.04401"
-           style="font-stretch:semi-condensed;font-size:5.24900007px;font-family:'Input Sans Narrow';-inkscape-font-specification:'Input Sans Narrow Semi-Condensed';text-align:center;letter-spacing:-0.49914107px;fill:url(#linearGradient4639)"
-           font-stretch="semi-condensed"
-           font-size="5.249"
-           letter-spacing="-.469"
-           id="tspan77">game engine</tspan>
-      </text>
-      <g
-         id="g85"
-         style="color:#000000">
-        <path
-           transform="matrix(-1.1617324,-0.10163841,0.10163841,-1.1617324,-380.73313,-805.20126)"
-           style="line-height:125%;-inkscape-font-specification:Arial;text-align:center;overflow:visible;opacity:0.15;fill:#090d00;marker:none;filter:url(#f);enable-background:accumulate"
-           overflow="visible"
-           d="m -606.91,-625.956 h 29.821 v 18.531 h -29.821 z"
-           id="path81"
-           inkscape:connector-curvature="0" />
-        <path
-           style="line-height:125%;-inkscape-font-specification:Arial;text-align:center;overflow:visible;fill:url(#card-back-color);marker:none;enable-background:accumulate"
-           transform="matrix(-1.1617324,-0.10163841,0.10163841,-1.1617324,-506.00114,-805.20138)"
-           overflow="visible"
-           d="m -713.919,-616.594 h 29.821 v 18.531 h -29.821 z"
-           id="path83"
-           inkscape:connector-curvature="0" />
-      </g>
-      <g
-         id="g91"
-         style="color:#000000">
-        <path
-           style="line-height:125%;-inkscape-font-specification:Arial;text-align:center;overflow:visible;opacity:0.15;fill-opacity:0.99299999;marker:none;filter:url(#h);enable-background:accumulate"
-           transform="matrix(-1.1484533,-0.2025033,0.2025033,-1.1484533,-380.73323,-805.20127)"
-           overflow="visible"
-           d="m -658.405,-572.013 h 29.821 v 18.531 h -29.821 z"
-           id="path87"
-           inkscape:connector-curvature="0" />
-        <path
-           transform="matrix(-1.1484533,-0.2025033,0.2025033,-1.1484533,-506.00115,-805.2013)"
-           style="line-height:125%;-inkscape-font-specification:Arial;text-align:center;overflow:visible;fill:url(#main-color);marker:none;enable-background:accumulate"
-           overflow="visible"
-           d="m -764.192,-553.36 h 29.821 v 18.531 h -29.821 z"
-           id="path89"
-           inkscape:connector-curvature="0" />
-      </g>
-      <g
          font-size="19.5"
-         id="g101"
-         style="font-size:19.5px">
+         letter-spacing="0"
+         word-spacing="0"
+         id="g6024">
         <text
-           transform="matrix(1.16617,0,-0.00235,1.16617,-527.889,-805.203)"
+           transform="matrix(1.16617,0,-0.00235,1.16617,-749.949,-595.124)"
            y="671.409"
            x="648.37299"
            style="line-height:125%;-inkscape-font-specification:Arial;text-align:center;opacity:0.07000002;fill:#010000;filter:url(#j)"
-           id="text95">
+           id="text6018">
           <tspan
              style="font-stretch:semi-condensed;font-family:'Input Sans Narrow';-inkscape-font-specification:'Input Sans Narrow Semi-Condensed';text-align:start;letter-spacing:-1.20000005;text-anchor:start"
              y="671.409"
              x="648.37299"
              font-stretch="semi-condensed"
              letter-spacing="-1.2"
-             id="tspan93">lug</tspan>
+             id="tspan6016">lug</tspan>
         </text>
         <text
            style="line-height:125%;-inkscape-font-specification:Arial;text-align:center"
-           x="629.60498"
-           y="671.409"
-           transform="matrix(1.16617,0,-0.00235,1.16617,-506.002,-805.203)"
-           id="text99">
-          <tspan
-             x="629.60498"
-             y="671.409"
-             style="font-stretch:semi-condensed;font-family:'Input Sans Narrow';-inkscape-font-specification:'Input Sans Narrow Semi-Condensed';text-align:start;letter-spacing:-1.20000005;text-anchor:start;fill:#ffffff"
-             font-stretch="semi-condensed"
-             letter-spacing="-1.2"
-             id="tspan97">lug</tspan>
-        </text>
-      </g>
-    </g>
-    <path
-       style="color:#000000;overflow:visible;fill:none;marker:none;enable-background:accumulate"
-       overflow="visible"
-       d="m 217.112,-52.676 h 54.443 V 1.767 h -54.443 z"
-       id="path105"
-       inkscape:connector-curvature="0" />
-  </g>
-  <rect
-     style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#2d2d2d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.09013658;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
-     id="rect6154"
-     width="205.04201"
-     height="57.519302"
-     x="10.000001"
-     y="108.99165"
-     inkscape:export-xdpi="159.84"
-     inkscape:export-ydpi="159.84" />
-  <g
-     transform="translate(16.76619,-45.148745)"
-     id="long-dark"
-     inkscape:export-xdpi="159.84"
-     inkscape:export-ydpi="159.84">
-    <path
-       inkscape:connector-curvature="0"
-       style="color:#000000;overflow:visible;fill:none;marker:none;enable-background:accumulate"
-       overflow="visible"
-       d="m 0,164.362 h 110.792 v 36.833 H 0 Z"
-       id="path5990" />
-    <path
-       inkscape:connector-curvature="0"
-       style="color:#000000;font-weight:400;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0;word-spacing:0;text-anchor:middle;overflow:visible;fill:url(#linearGradient6102);fill-opacity:1;marker:none;enable-background:accumulate"
-       transform="rotate(180,-6.816,102.388)"
-       font-weight="400"
-       letter-spacing="0"
-       word-spacing="0"
-       overflow="visible"
-       d="M -120.404,13.039 H -18.383 V 33.392 H -120.404 Z"
-       id="path5992" />
-    <text
-       style="font-weight:400;font-size:22.73999977px;line-height:14.69099045px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0;word-spacing:0;text-anchor:middle;stroke-width:1.16600001"
-       x="51.195999"
-       y="-16.853001"
-       font-weight="400"
-       font-size="22.74"
-       letter-spacing="0"
-       word-spacing="0"
-       transform="translate(-13.633,204.777)"
-       id="text5996">
-      <tspan
-         x="51.195999"
-         y="-16.853001"
-         style="font-stretch:semi-condensed;line-height:14.69099045px;font-family:'Input Sans Narrow';-inkscape-font-specification:'Input Sans Narrow Semi-Condensed';text-align:start;letter-spacing:-1.39900005;text-anchor:start;fill:#ffffff"
-         font-stretch="semi-condensed"
-         letter-spacing="-1.399"
-         id="tspan5994">dunum</tspan>
-    </text>
-    <text
-       style="font-weight:400;font-size:0.76499999px;line-height:14.69099045px;font-family:Arial;-inkscape-font-specification:Arial;text-align:end;letter-spacing:0;word-spacing:0;text-anchor:end;fill:url(#linearGradient4641);fill-opacity:1;stroke-width:1.16600001"
-       x="117.77"
-       y="-7.4829998"
-       font-weight="400"
-       font-size=".765"
-       letter-spacing="0"
-       word-spacing="0"
-       transform="translate(-13.633,204.777)"
-       id="text6002">
-      <tspan
-         x="117.223"
-         y="-7.4829998"
-         style="font-stretch:semi-condensed;font-size:6.12200022px;font-family:'Input Sans Narrow';-inkscape-font-specification:'Input Sans Narrow Semi-Condensed';text-align:end;letter-spacing:-0.58208334px;fill:url(#linearGradient4641);fill-opacity:1"
-         font-stretch="semi-condensed"
-         font-size="6.122"
-         letter-spacing="-.547"
-         id="tspan6000">game engine</tspan>
-    </text>
-    <g
-       style="color:#000000;font-weight:400;font-family:Arial;letter-spacing:0;word-spacing:0;text-anchor:middle"
-       font-weight="400"
-       letter-spacing="0"
-       word-spacing="0"
-       id="g6008">
-      <path
-         inkscape:connector-curvature="0"
-         transform="matrix(-1.1617324,-0.10163841,0.10163841,-1.1617324,-602.7924,-595.12301)"
-         style="line-height:125%;-inkscape-font-specification:Arial;text-align:center;overflow:visible;opacity:0.15;fill:#090d00;marker:none;filter:url(#f);enable-background:accumulate"
-         overflow="visible"
-         d="m -606.91,-625.956 h 29.821 v 18.531 h -29.821 z"
-         id="path6004" />
-      <path
-         inkscape:connector-curvature="0"
-         style="line-height:125%;-inkscape-font-specification:Arial;text-align:center;overflow:visible;fill:url(#linearGradient6186);fill-opacity:1;marker:none;enable-background:accumulate"
-         transform="matrix(-1.1617324,-0.10163841,0.10163841,-1.1617324,-728.06042,-595.12303)"
-         overflow="visible"
-         d="m -713.919,-616.594 h 29.821 v 18.531 h -29.821 z"
-         id="path6006" />
-    </g>
-    <g
-       style="color:#000000;font-weight:400;font-family:Arial;letter-spacing:0;word-spacing:0;text-anchor:middle"
-       font-weight="400"
-       letter-spacing="0"
-       word-spacing="0"
-       id="g6014">
-      <path
-         inkscape:connector-curvature="0"
-         style="line-height:125%;-inkscape-font-specification:Arial;text-align:center;overflow:visible;opacity:0.15;fill-opacity:0.99299999;marker:none;filter:url(#h);enable-background:accumulate"
-         transform="matrix(-1.1484533,-0.2025033,0.2025033,-1.1484533,-602.79238,-595.12303)"
-         overflow="visible"
-         d="m -658.405,-572.013 h 29.821 v 18.531 h -29.821 z"
-         id="path6010" />
-      <path
-         inkscape:connector-curvature="0"
-         transform="matrix(-1.1484533,-0.2025033,0.2025033,-1.1484533,-728.0605,-595.12307)"
-         style="line-height:125%;-inkscape-font-specification:Arial;text-align:center;overflow:visible;fill:url(#main-color);fill-opacity:1;marker:none;enable-background:accumulate"
-         overflow="visible"
-         d="m -764.192,-553.36 h 29.821 v 18.531 h -29.821 z"
-         id="path6012" />
-    </g>
-    <g
-       style="font-weight:400;font-size:19.5px;font-family:Arial;letter-spacing:0;word-spacing:0;text-anchor:middle"
-       font-weight="400"
-       font-size="19.5"
-       letter-spacing="0"
-       word-spacing="0"
-       id="g6024">
-      <text
-         transform="matrix(1.16617,0,-0.00235,1.16617,-749.949,-595.124)"
-         y="671.409"
-         x="648.37299"
-         style="line-height:125%;-inkscape-font-specification:Arial;text-align:center;opacity:0.07000002;fill:#010000;filter:url(#j)"
-         id="text6018">
-        <tspan
-           style="font-stretch:semi-condensed;font-family:'Input Sans Narrow';-inkscape-font-specification:'Input Sans Narrow Semi-Condensed';text-align:start;letter-spacing:-1.20000005;text-anchor:start"
-           y="671.409"
-           x="648.37299"
-           font-stretch="semi-condensed"
-           letter-spacing="-1.2"
-           id="tspan6016">lug</tspan>
-      </text>
-      <text
-         style="line-height:125%;-inkscape-font-specification:Arial;text-align:center"
-         x="629.60498"
-         y="671.46899"
-         transform="matrix(1.16617,0,-0.00235,1.16617,-728.062,-595.124)"
-         id="text6022">
-        <tspan
            x="629.60498"
            y="671.46899"
-           style="font-stretch:semi-condensed;font-family:'Input Sans Narrow';-inkscape-font-specification:'Input Sans Narrow Semi-Condensed';text-align:start;letter-spacing:-1.20000005;text-anchor:start;fill:#ffffff"
+           transform="matrix(1.16617,0,-0.00235,1.16617,-728.062,-595.124)"
+           id="text6022">
+          <tspan
+             x="629.60498"
+             y="671.46899"
+             style="font-stretch:semi-condensed;font-family:'Input Sans Narrow';-inkscape-font-specification:'Input Sans Narrow Semi-Condensed';text-align:start;letter-spacing:-1.20000005;text-anchor:start;fill:#ffffff"
+             font-stretch="semi-condensed"
+             letter-spacing="-1.2"
+             id="tspan6020">lug</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="short-shadowed">
+    <g
+       style="display:inline"
+       id="short-shadowed"
+       transform="translate(16.766177,98.057916)"
+       inkscape:export-xdpi="159.84"
+       inkscape:export-ydpi="159.84">
+      <rect
+         transform="matrix(4.1321,0,0,4.1321,-266.559,-500.113)"
+         style="color:#000000;overflow:visible;opacity:0.07000002;marker:none;filter:url(#k);enable-background:accumulate"
+         width="10.944"
+         height="10.887"
+         x="118.167"
+         y="109.427"
+         ry="0.83600003"
+         overflow="visible"
+         id="rect69" />
+      <rect
+         ry="5.2069998"
+         y="-47.946999"
+         x="221.722"
+         height="44.985001"
+         width="45.222"
+         style="color:#000000;overflow:visible;fill:#ffffff;marker:none;enable-background:accumulate"
+         overflow="visible"
+         id="rect71" />
+      <g
+         font-weight="400"
+         letter-spacing="0"
+         word-spacing="0"
+         id="g103"
+         style="font-weight:400;font-family:Arial;letter-spacing:0;word-spacing:0;text-anchor:middle">
+        <path
+           style="color:#000000;line-height:125%;-inkscape-font-specification:Arial;text-align:center;overflow:visible;fill:url(#background-color);marker:none;enable-background:accumulate"
+           transform="matrix(-1.16617,0,0,-1.16617,-506.002,-805.203)"
+           overflow="visible"
+           d="m -658.367,-674.739 h 29.976 v 17.453 h -29.976 z"
+           id="path73"
+           inkscape:connector-curvature="0" />
+        <text
+           style="font-size:0.65600002px;line-height:12.59760952px;-inkscape-font-specification:Arial;text-align:center;fill:url(#linearGradient4639)"
+           x="643.37299"
+           y="683.04401"
+           font-size=".656"
+           transform="matrix(1.16617,0,0,1.16617,-506.002,-805.203)"
+           id="text79">
+          <tspan
+             x="643.138"
+             y="683.04401"
+             style="font-stretch:semi-condensed;font-size:5.24900007px;font-family:'Input Sans Narrow';-inkscape-font-specification:'Input Sans Narrow Semi-Condensed';text-align:center;letter-spacing:-0.49914107px;fill:url(#linearGradient4639)"
+             font-stretch="semi-condensed"
+             font-size="5.249"
+             letter-spacing="-.469"
+             id="tspan77">3D engine</tspan>
+        </text>
+        <g
+           id="g85"
+           style="color:#000000">
+          <path
+             transform="matrix(-1.1617324,-0.10163841,0.10163841,-1.1617324,-380.73313,-805.20126)"
+             style="line-height:125%;-inkscape-font-specification:Arial;text-align:center;overflow:visible;opacity:0.15;fill:#090d00;marker:none;filter:url(#f);enable-background:accumulate"
+             overflow="visible"
+             d="m -606.91,-625.956 h 29.821 v 18.531 h -29.821 z"
+             id="path81"
+             inkscape:connector-curvature="0" />
+          <path
+             style="line-height:125%;-inkscape-font-specification:Arial;text-align:center;overflow:visible;fill:url(#card-back-color);marker:none;enable-background:accumulate"
+             transform="matrix(-1.1617324,-0.10163841,0.10163841,-1.1617324,-506.00114,-805.20138)"
+             overflow="visible"
+             d="m -713.919,-616.594 h 29.821 v 18.531 h -29.821 z"
+             id="path83"
+             inkscape:connector-curvature="0" />
+        </g>
+        <g
+           id="g91"
+           style="color:#000000">
+          <path
+             style="line-height:125%;-inkscape-font-specification:Arial;text-align:center;overflow:visible;opacity:0.15;fill-opacity:0.99299999;marker:none;filter:url(#h);enable-background:accumulate"
+             transform="matrix(-1.1484533,-0.2025033,0.2025033,-1.1484533,-380.73323,-805.20127)"
+             overflow="visible"
+             d="m -658.405,-572.013 h 29.821 v 18.531 h -29.821 z"
+             id="path87"
+             inkscape:connector-curvature="0" />
+          <path
+             transform="matrix(-1.1484533,-0.2025033,0.2025033,-1.1484533,-506.00115,-805.2013)"
+             style="line-height:125%;-inkscape-font-specification:Arial;text-align:center;overflow:visible;fill:url(#main-color);marker:none;enable-background:accumulate"
+             overflow="visible"
+             d="m -764.192,-553.36 h 29.821 v 18.531 h -29.821 z"
+             id="path89"
+             inkscape:connector-curvature="0" />
+        </g>
+        <g
+           font-size="19.5"
+           id="g101"
+           style="font-size:19.5px">
+          <text
+             transform="matrix(1.16617,0,-0.00235,1.16617,-527.889,-805.203)"
+             y="671.409"
+             x="648.37299"
+             style="line-height:125%;-inkscape-font-specification:Arial;text-align:center;opacity:0.07000002;fill:#010000;filter:url(#j)"
+             id="text95">
+            <tspan
+               style="font-stretch:semi-condensed;font-family:'Input Sans Narrow';-inkscape-font-specification:'Input Sans Narrow Semi-Condensed';text-align:start;letter-spacing:-1.20000005;text-anchor:start"
+               y="671.409"
+               x="648.37299"
+               font-stretch="semi-condensed"
+               letter-spacing="-1.2"
+               id="tspan93">lug</tspan>
+          </text>
+          <text
+             style="line-height:125%;-inkscape-font-specification:Arial;text-align:center"
+             x="629.60498"
+             y="671.409"
+             transform="matrix(1.16617,0,-0.00235,1.16617,-506.002,-805.203)"
+             id="text99">
+            <tspan
+               x="629.60498"
+               y="671.409"
+               style="font-stretch:semi-condensed;font-family:'Input Sans Narrow';-inkscape-font-specification:'Input Sans Narrow Semi-Condensed';text-align:start;letter-spacing:-1.20000005;text-anchor:start;fill:#ffffff"
+               font-stretch="semi-condensed"
+               letter-spacing="-1.2"
+               id="tspan97">lug</tspan>
+          </text>
+        </g>
+      </g>
+      <path
+         style="color:#000000;overflow:visible;fill:none;marker:none;enable-background:accumulate"
+         overflow="visible"
+         d="m 217.112,-52.676 h 54.443 V 1.767 h -54.443 z"
+         id="path105"
+         inkscape:connector-curvature="0" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="short">
+    <g
+       style="display:inline"
+       id="short"
+       transform="translate(2.7125617,1.3387428)"
+       inkscape:export-xdpi="159.84"
+       inkscape:export-ydpi="159.84">
+      <rect
+         y="48.491428"
+         x="155.21243"
+         height="45.54649"
+         width="45.54649"
+         id="rect4634"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#000000;fill-opacity:0;fill-rule:nonzero;stroke:none;stroke-width:0.10338347;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
+      <g
+         id="g4675">
+        <path
+           inkscape:connector-curvature="0"
+           id="path109"
+           d="m 195.44061,77.67843 h -34.958 v -20.353 h 34.958 z"
+           overflow="visible"
+           word-spacing="0"
+           letter-spacing="0"
+           font-weight="400"
+           style="color:#000000;font-weight:400;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0;word-spacing:0;text-anchor:middle;overflow:visible;fill:url(#background-color);marker:none;enable-background:accumulate" />
+        <text
+           id="text115"
+           word-spacing="0"
+           letter-spacing="0"
+           font-size=".765"
+           font-weight="400"
+           style="font-weight:400;font-size:0.76499999px;line-height:14.69099045px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0;word-spacing:0;text-anchor:middle;fill:url(#linearGradient4637);stroke-width:1.16600001"
+           x="177.95361"
+           y="87.363434">
+          <tspan
+             id="tspan113"
+             letter-spacing="-.547"
+             font-size="6.122"
+             font-stretch="semi-condensed"
+             x="177.68062"
+             y="87.363434"
+             style="font-stretch:semi-condensed;font-size:6.12200022px;font-family:'Input Sans Narrow';-inkscape-font-specification:'Input Sans Narrow Semi-Condensed';text-align:center;letter-spacing:-0.58208334px;fill:url(#linearGradient4637)">3D engine</tspan>
+        </text>
+        <g
+           style="color:#000000;font-weight:400;font-family:Arial;letter-spacing:0;word-spacing:0;text-anchor:middle"
+           id="g121"
+           word-spacing="0"
+           letter-spacing="0"
+           font-weight="400"
+           transform="translate(21.123611,-111.95957)">
+          <path
+             inkscape:connector-curvature="0"
+             id="path117"
+             d="m -606.91,-625.956 h 29.821 v 18.531 h -29.821 z"
+             overflow="visible"
+             transform="matrix(-1.1617324,-0.10163841,0.10163841,-1.1617324,-468.18411,-597.2226)"
+             style="line-height:125%;-inkscape-font-specification:Arial;text-align:center;overflow:visible;opacity:0.15;fill:#090d00;marker:none;filter:url(#f);enable-background:accumulate" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path119"
+             d="m -713.919,-616.594 h 29.821 v 18.531 h -29.821 z"
+             overflow="visible"
+             style="line-height:125%;-inkscape-font-specification:Arial;text-align:center;overflow:visible;fill:url(#card-back-color);marker:none;enable-background:accumulate"
+             transform="matrix(-1.1617324,-0.10163841,0.10163841,-1.1617324,-593.45202,-597.22272)" />
+        </g>
+        <g
+           style="color:#000000;font-weight:400;font-family:Arial;letter-spacing:0;word-spacing:0;text-anchor:middle"
+           id="g127"
+           word-spacing="0"
+           letter-spacing="0"
+           font-weight="400"
+           transform="translate(21.123611,-111.95957)">
+          <path
+             inkscape:connector-curvature="0"
+             id="path123"
+             d="m -658.405,-572.013 h 29.821 v 18.531 h -29.821 z"
+             overflow="visible"
+             style="line-height:125%;-inkscape-font-specification:Arial;text-align:center;overflow:visible;opacity:0.15;fill-opacity:0.99299999;marker:none;filter:url(#h);enable-background:accumulate"
+             transform="matrix(-1.1484533,-0.2025033,0.2025033,-1.1484533,-468.18409,-597.22257)" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path125"
+             d="m -764.192,-553.36 h 29.821 v 18.531 h -29.821 z"
+             overflow="visible"
+             transform="matrix(-1.1484533,-0.2025033,0.2025033,-1.1484533,-593.45201,-597.22259)"
+             style="line-height:125%;-inkscape-font-specification:Arial;text-align:center;overflow:visible;fill:url(#main-color);marker:none;enable-background:accumulate" />
+        </g>
+        <g
+           style="font-weight:400;font-size:19.5px;font-family:Arial;letter-spacing:0;word-spacing:0;text-anchor:middle"
+           id="g137"
+           word-spacing="0"
+           letter-spacing="0"
+           font-size="19.5"
+           font-weight="400"
+           transform="translate(21.123611,-111.95957)">
+          <text
+             id="text131"
+             transform="matrix(1.16617,0,-0.00235,1.16617,-615.34,-597.224)"
+             y="671.409"
+             x="648.37299"
+             style="line-height:125%;-inkscape-font-specification:Arial;text-align:center;opacity:0.07000002;fill:#010000;filter:url(#j)">
+            <tspan
+               id="tspan129"
+               letter-spacing="-1.2"
+               font-stretch="semi-condensed"
+               style="font-stretch:semi-condensed;font-family:'Input Sans Narrow';-inkscape-font-specification:'Input Sans Narrow Semi-Condensed';text-align:start;letter-spacing:-1.20000005;text-anchor:start"
+               y="671.409"
+               x="648.37299">lug</tspan>
+          </text>
+          <text
+             id="text135"
+             style="line-height:125%;-inkscape-font-specification:Arial;text-align:center"
+             x="629.60498"
+             y="671.409"
+             transform="matrix(1.16617,0,-0.00235,1.16617,-593.454,-597.224)">
+            <tspan
+               id="tspan133"
+               letter-spacing="-1.2"
+               font-stretch="semi-condensed"
+               x="629.60498"
+               y="671.409"
+               style="font-stretch:semi-condensed;font-family:'Input Sans Narrow';-inkscape-font-specification:'Input Sans Narrow Semi-Condensed';text-align:start;letter-spacing:-1.20000005;text-anchor:start;fill:#ffffff">lug</tspan>
+          </text>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="long"
+     style="display:inline">
+    <g
+       id="long"
+       transform="translate(16.76619,-110.17508)"
+       inkscape:export-xdpi="159.84"
+       inkscape:export-ydpi="159.84">
+      <path
+         id="path33"
+         d="m 0,164.362 h 110.792 v 36.833 H 0 Z"
+         overflow="visible"
+         style="color:#000000;overflow:visible;fill:none;marker:none;enable-background:accumulate"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path35"
+         d="M -120.404,13.039 H -18.383 V 33.392 H -120.404 Z"
+         overflow="visible"
+         word-spacing="0"
+         letter-spacing="0"
+         font-weight="400"
+         transform="rotate(180,-6.816,102.388)"
+         style="color:#000000;font-weight:400;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0;word-spacing:0;text-anchor:middle;overflow:visible;fill:url(#d);marker:none;enable-background:accumulate"
+         inkscape:connector-curvature="0" />
+      <text
+         id="text39"
+         transform="translate(-13.633,204.777)"
+         word-spacing="0"
+         letter-spacing="0"
+         font-size="22.74"
+         font-weight="400"
+         y="-16.853001"
+         x="51.195999"
+         style="font-weight:400;font-size:22.73999977px;line-height:14.69099045px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0;word-spacing:0;text-anchor:middle;stroke-width:1.16600001">
+        <tspan
+           id="tspan37"
+           letter-spacing="-1.399"
            font-stretch="semi-condensed"
-           letter-spacing="-1.2"
-           id="tspan6020">lug</tspan>
+           style="font-stretch:semi-condensed;line-height:14.69099045px;font-family:'Input Sans Narrow';-inkscape-font-specification:'Input Sans Narrow Semi-Condensed';text-align:start;letter-spacing:-1.39900005;text-anchor:start;fill:#ffffff"
+           y="-16.853001"
+           x="51.195999">dunum</tspan>
       </text>
-    </g>
-  </g>
-  <g
-     id="g4661"
-     transform="translate(2.7125617,1.7854911)"
-     inkscape:export-xdpi="159.84"
-     inkscape:export-ydpi="159.84">
-    <g
-       id="g4684"
-       transform="translate(0.36176497)">
-      <path
-         inkscape:connector-curvature="0"
-         id="path143"
-         d="m 7.0579651,8.34643 h 6.9599999 v 4.301 H 7.0579651 Z"
-         overflow="visible"
-         style="color:#000000;overflow:visible;fill:url(#main-color);fill-opacity:1;stroke:#000000;stroke-width:0.26458335;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate" />
       <text
-         id="text147"
+         id="text45"
          word-spacing="0"
          letter-spacing="0"
-         font-size="2.679"
-         font-weight="400"
-         style="font-weight:400;font-size:2.6789999px;line-height:6.69714594px;font-family:Noteworthy;-inkscape-font-specification:Noteworthy;text-align:center;letter-spacing:0;word-spacing:0;text-anchor:middle;stroke-width:0.26800001"
-         x="15.107965"
-         y="11.503427">
-        <tspan
-           id="tspan145"
-           x="15.107965"
-           y="11.503427"
-           style="font-family:monospace;-inkscape-font-specification:monospace;text-align:start;text-anchor:start">main-color</tspan>
-      </text>
-      <path
-         inkscape:connector-curvature="0"
-         id="path149"
-         d="m 7.0579651,13.63843 h 6.9599999 v 4.301 H 7.0579651 Z"
-         overflow="visible"
-         style="color:#000000;overflow:visible;fill:url(#card-back-color);fill-opacity:1;stroke:#000000;stroke-width:0.26458335;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate" />
-      <text
-         id="text153"
-         word-spacing="0"
-         letter-spacing="0"
-         font-size="2.679"
-         font-weight="400"
-         y="16.794426"
-         x="15.107965"
-         style="font-weight:400;font-size:2.6789999px;line-height:6.69714594px;font-family:Noteworthy;-inkscape-font-specification:Noteworthy;text-align:center;letter-spacing:0;word-spacing:0;text-anchor:middle;stroke-width:0.26800001">
-        <tspan
-           id="tspan151"
-           style="font-family:monospace;-inkscape-font-specification:monospace;text-align:start;text-anchor:start"
-           y="16.794426"
-           x="15.107965">card-back-color</tspan>
-      </text>
-      <path
-         inkscape:connector-curvature="0"
-         id="path155"
-         d="m 7.0579651,18.92943 h 6.9599999 v 4.301 H 7.0579651 Z"
-         overflow="visible"
-         style="color:#000000;overflow:visible;fill:url(#background-color);stroke:#000000;stroke-width:0.26458335;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate" />
-      <text
-         id="text159"
-         word-spacing="0"
-         letter-spacing="0"
-         font-size="2.679"
-         font-weight="400"
-         style="font-weight:400;font-size:2.6789999px;line-height:6.69714594px;font-family:Noteworthy;-inkscape-font-specification:Noteworthy;text-align:center;letter-spacing:0;word-spacing:0;text-anchor:middle;stroke-width:0.26800001"
-         x="15.107965"
-         y="22.086426">
-        <tspan
-           id="tspan157"
-           x="15.107965"
-           y="22.086426"
-           style="font-family:monospace;-inkscape-font-specification:monospace;text-align:start;text-anchor:start">background-color</tspan>
-      </text>
-      <path
-         inkscape:connector-curvature="0"
-         id="path161"
-         d="m 7.0579651,24.22143 h 6.9599999 v 4.301 H 7.0579651 Z"
-         overflow="visible"
-         style="color:#000000;overflow:visible;fill:url(#sub-text-color);stroke:#000000;stroke-width:0.26458335;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate" />
-      <text
-         id="text165"
-         word-spacing="0"
-         letter-spacing="0"
-         font-size="2.679"
-         font-weight="400"
-         y="27.378426"
-         x="15.107965"
-         style="font-weight:400;font-size:2.6789999px;line-height:6.69714594px;font-family:Noteworthy;-inkscape-font-specification:Noteworthy;text-align:center;letter-spacing:0;word-spacing:0;text-anchor:middle;stroke-width:0.26800001">
-        <tspan
-           id="tspan163"
-           style="font-family:monospace;-inkscape-font-specification:monospace;text-align:start;text-anchor:start"
-           y="27.378426"
-           x="15.107965">sub-text-color</tspan>
-      </text>
-      <path
-         style="color:#000000;overflow:visible;fill:url(#linearGradient6182);fill-opacity:1;stroke:#000000;stroke-width:0.26458335;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate"
-         overflow="visible"
-         d="m 44.099634,13.63843 h 6.96 v 4.301 h -6.96 z"
-         id="path6136"
-         inkscape:connector-curvature="0" />
-      <text
-         style="font-weight:400;font-size:2.6789999px;line-height:6.69714594px;font-family:Noteworthy;-inkscape-font-specification:Noteworthy;text-align:center;letter-spacing:0;word-spacing:0;text-anchor:middle;stroke-width:0.26800001"
-         x="52.149643"
-         y="16.794426"
-         font-weight="400"
-         font-size="2.679"
-         letter-spacing="0"
-         word-spacing="0"
-         id="text6140">
-        <tspan
-           x="52.149643"
-           y="16.794426"
-           style="font-family:monospace;-inkscape-font-specification:monospace;text-align:start;text-anchor:start"
-           id="tspan6138">card-back-dark-color</tspan>
-      </text>
-      <path
-         style="color:#000000;overflow:visible;fill:url(#linearGradient6174);fill-opacity:1;stroke:#000000;stroke-width:0.26458335;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate"
-         overflow="visible"
-         d="m 44.099634,18.92943 h 6.96 v 4.301 h -6.96 z"
-         id="path6142"
-         inkscape:connector-curvature="0" />
-      <text
-         y="22.086426"
-         x="52.149643"
-         style="font-weight:400;font-size:2.6789999px;line-height:6.69714594px;font-family:Noteworthy;-inkscape-font-specification:Noteworthy;text-align:center;letter-spacing:0;word-spacing:0;text-anchor:middle;stroke-width:0.26800001"
-         font-weight="400"
-         font-size="2.679"
-         letter-spacing="0"
-         word-spacing="0"
-         id="text6146">
-        <tspan
-           style="font-family:monospace;-inkscape-font-specification:monospace;text-align:start;text-anchor:start"
-           y="22.086426"
-           x="52.149643"
-           id="tspan6144">background-dark-color</tspan>
-      </text>
-      <path
-         style="color:#000000;overflow:visible;fill:url(#linearGradient6168);fill-opacity:1;stroke:#000000;stroke-width:0.26458335;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate"
-         overflow="visible"
-         d="m 44.099634,24.22143 h 6.96 v 4.301 h -6.96 z"
-         id="path6148"
-         inkscape:connector-curvature="0" />
-      <text
-         style="font-weight:400;font-size:2.6789999px;line-height:6.69714594px;font-family:Noteworthy;-inkscape-font-specification:Noteworthy;text-align:center;letter-spacing:0;word-spacing:0;text-anchor:middle;stroke-width:0.26800001"
-         x="52.149643"
-         y="27.378426"
-         font-weight="400"
-         font-size="2.679"
-         letter-spacing="0"
-         word-spacing="0"
-         id="text6152">
-        <tspan
-           x="52.149643"
-           y="27.378426"
-           style="font-family:monospace;-inkscape-font-specification:monospace;text-align:start;text-anchor:start"
-           id="tspan6150">sub-text-dark-color</tspan>
-      </text>
-    </g>
-  </g>
-  <g
-     transform="translate(2.7125617,66.365082)"
-     id="short-dark"
-     inkscape:export-xdpi="159.84"
-     inkscape:export-ydpi="159.84">
-    <rect
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#000000;fill-opacity:0;fill-rule:nonzero;stroke:none;stroke-width:0.10338347;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
-       id="rect4836"
-       width="45.54649"
-       height="45.54649"
-       x="155.21243"
-       y="48.491428" />
-    <g
-       id="g4868">
-      <path
-         style="color:#000000;font-weight:400;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0;word-spacing:0;text-anchor:middle;overflow:visible;fill:url(#linearGradient4902);fill-opacity:1;marker:none;enable-background:accumulate"
-         font-weight="400"
-         letter-spacing="0"
-         word-spacing="0"
-         overflow="visible"
-         d="m 195.44061,77.67843 h -34.958 v -20.353 h 34.958 z"
-         id="path4838"
-         inkscape:connector-curvature="0" />
-      <text
-         y="87.363434"
-         x="177.95361"
-         style="font-weight:400;font-size:0.76499999px;line-height:14.69099045px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0;word-spacing:0;text-anchor:middle;fill:url(#linearGradient4643);fill-opacity:1;stroke-width:1.16600001"
-         font-weight="400"
          font-size=".765"
-         letter-spacing="0"
-         word-spacing="0"
-         id="text4844">
+         font-weight="400"
+         y="-7.4829998"
+         x="117.77"
+         style="font-weight:400;font-size:0.76499999px;line-height:14.69099045px;font-family:Arial;-inkscape-font-specification:Arial;text-align:end;letter-spacing:0;word-spacing:0;text-anchor:end;fill:url(#linearGradient4635);stroke-width:1.16600001"
+         transform="translate(-13.633,204.777)">
         <tspan
-           style="font-stretch:semi-condensed;font-size:6.12200022px;font-family:'Input Sans Narrow';-inkscape-font-specification:'Input Sans Narrow Semi-Condensed';text-align:center;letter-spacing:-0.58208334px;fill:url(#linearGradient4643);fill-opacity:1"
-           y="87.363434"
-           x="177.68062"
-           font-stretch="semi-condensed"
-           font-size="6.122"
+           id="tspan43"
            letter-spacing="-.547"
-           id="tspan4842">game engine</tspan>
+           font-size="6.122"
+           font-stretch="semi-condensed"
+           style="font-stretch:semi-condensed;font-size:6.12200022px;font-family:'Input Sans Narrow';-inkscape-font-specification:'Input Sans Narrow Semi-Condensed';text-align:end;letter-spacing:-0.58208334px;fill:url(#linearGradient4635)"
+           y="-7.4829998"
+           x="117.223">3D engine</tspan>
       </text>
       <g
-         transform="translate(21.123611,-111.95957)"
-         font-weight="400"
-         letter-spacing="0"
+         id="g51"
          word-spacing="0"
-         id="g4850"
+         letter-spacing="0"
+         font-weight="400"
          style="color:#000000;font-weight:400;font-family:Arial;letter-spacing:0;word-spacing:0;text-anchor:middle">
         <path
-           style="line-height:125%;-inkscape-font-specification:Arial;text-align:center;overflow:visible;opacity:0.15;fill:#090d00;marker:none;filter:url(#f);enable-background:accumulate"
-           transform="matrix(-1.1617324,-0.10163841,0.10163841,-1.1617324,-468.18411,-597.2226)"
-           overflow="visible"
+           id="path47"
            d="m -606.91,-625.956 h 29.821 v 18.531 h -29.821 z"
-           id="path4846"
+           overflow="visible"
+           style="line-height:125%;-inkscape-font-specification:Arial;text-align:center;overflow:visible;opacity:0.15;fill:#090d00;marker:none;filter:url(#f);enable-background:accumulate"
+           transform="matrix(-1.1617324,-0.10163841,0.10163841,-1.1617324,-602.7924,-595.12301)"
            inkscape:connector-curvature="0" />
         <path
-           transform="matrix(-1.1617324,-0.10163841,0.10163841,-1.1617324,-593.45202,-597.22272)"
-           style="line-height:125%;-inkscape-font-specification:Arial;text-align:center;overflow:visible;fill:url(#linearGradient4904);fill-opacity:1;marker:none;enable-background:accumulate"
-           overflow="visible"
+           id="path49"
            d="m -713.919,-616.594 h 29.821 v 18.531 h -29.821 z"
-           id="path4848"
+           overflow="visible"
+           transform="matrix(-1.1617324,-0.10163841,0.10163841,-1.1617324,-728.06042,-595.12303)"
+           style="line-height:125%;-inkscape-font-specification:Arial;text-align:center;overflow:visible;fill:url(#g);marker:none;enable-background:accumulate"
            inkscape:connector-curvature="0" />
       </g>
       <g
-         transform="translate(21.123611,-111.95957)"
-         font-weight="400"
-         letter-spacing="0"
+         id="g57"
          word-spacing="0"
-         id="g4856"
+         letter-spacing="0"
+         font-weight="400"
          style="color:#000000;font-weight:400;font-family:Arial;letter-spacing:0;word-spacing:0;text-anchor:middle">
         <path
-           transform="matrix(-1.1484533,-0.2025033,0.2025033,-1.1484533,-468.18409,-597.22257)"
-           style="line-height:125%;-inkscape-font-specification:Arial;text-align:center;overflow:visible;opacity:0.15;fill-opacity:0.99299999;marker:none;filter:url(#h);enable-background:accumulate"
-           overflow="visible"
+           id="path53"
            d="m -658.405,-572.013 h 29.821 v 18.531 h -29.821 z"
-           id="path4852"
+           overflow="visible"
+           transform="matrix(-1.1484533,-0.2025033,0.2025033,-1.1484533,-602.79238,-595.12303)"
+           style="line-height:125%;-inkscape-font-specification:Arial;text-align:center;overflow:visible;opacity:0.15;fill-opacity:0.99299999;marker:none;filter:url(#h);enable-background:accumulate"
            inkscape:connector-curvature="0" />
         <path
-           style="line-height:125%;-inkscape-font-specification:Arial;text-align:center;overflow:visible;fill:url(#main-color);marker:none;enable-background:accumulate"
-           transform="matrix(-1.1484533,-0.2025033,0.2025033,-1.1484533,-593.45201,-597.22259)"
-           overflow="visible"
+           id="path55"
            d="m -764.192,-553.36 h 29.821 v 18.531 h -29.821 z"
-           id="path4854"
+           overflow="visible"
+           style="line-height:125%;-inkscape-font-specification:Arial;text-align:center;overflow:visible;fill:url(#main-color);fill-opacity:1;marker:none;enable-background:accumulate"
+           transform="matrix(-1.1484533,-0.2025033,0.2025033,-1.1484533,-728.0605,-595.12307)"
            inkscape:connector-curvature="0" />
       </g>
       <g
-         transform="translate(21.123611,-111.95957)"
-         font-weight="400"
-         font-size="19.5"
-         letter-spacing="0"
+         id="g67"
          word-spacing="0"
-         id="g4866"
+         letter-spacing="0"
+         font-size="19.5"
+         font-weight="400"
          style="font-weight:400;font-size:19.5px;font-family:Arial;letter-spacing:0;word-spacing:0;text-anchor:middle">
         <text
+           id="text61"
            style="line-height:125%;-inkscape-font-specification:Arial;text-align:center;opacity:0.07000002;fill:#010000;filter:url(#j)"
            x="648.37299"
            y="671.409"
-           transform="matrix(1.16617,0,-0.00235,1.16617,-615.34,-597.224)"
-           id="text4860">
+           transform="matrix(1.16617,0,-0.00235,1.16617,-749.949,-595.124)">
           <tspan
+             id="tspan59"
+             letter-spacing="-1.2"
+             font-stretch="semi-condensed"
              x="648.37299"
              y="671.409"
-             style="font-stretch:semi-condensed;font-family:'Input Sans Narrow';-inkscape-font-specification:'Input Sans Narrow Semi-Condensed';text-align:start;letter-spacing:-1.20000005;text-anchor:start"
-             font-stretch="semi-condensed"
-             letter-spacing="-1.2"
-             id="tspan4858">lug</tspan>
+             style="font-stretch:semi-condensed;font-family:'Input Sans Narrow';-inkscape-font-specification:'Input Sans Narrow Semi-Condensed';text-align:start;letter-spacing:-1.20000005;text-anchor:start">lug</tspan>
         </text>
         <text
-           transform="matrix(1.16617,0,-0.00235,1.16617,-593.454,-597.224)"
-           y="671.409"
+           id="text65"
+           transform="matrix(1.16617,0,-0.00235,1.16617,-728.062,-595.124)"
+           y="671.46899"
            x="629.60498"
-           style="line-height:125%;-inkscape-font-specification:Arial;text-align:center"
-           id="text4864">
+           style="line-height:125%;-inkscape-font-specification:Arial;text-align:center">
           <tspan
-             style="font-stretch:semi-condensed;font-family:'Input Sans Narrow';-inkscape-font-specification:'Input Sans Narrow Semi-Condensed';text-align:start;letter-spacing:-1.20000005;text-anchor:start;fill:#ffffff"
-             y="671.409"
-             x="629.60498"
-             font-stretch="semi-condensed"
+             id="tspan63"
              letter-spacing="-1.2"
-             id="tspan4862">lug</tspan>
+             font-stretch="semi-condensed"
+             style="font-stretch:semi-condensed;font-family:'Input Sans Narrow';-inkscape-font-specification:'Input Sans Narrow Semi-Condensed';text-align:start;letter-spacing:-1.20000005;text-anchor:start;fill:#ffffff"
+             y="671.46899"
+             x="629.60498">lug</tspan>
         </text>
       </g>
     </g>
   </g>
-  <path
-     style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.26282078px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     d="M 10.000001,41.523998 H 288.47499"
-     id="path4636"
-     inkscape:connector-curvature="0"
-     inkscape:export-xdpi="159.84"
-     inkscape:export-ydpi="159.84" />
-  <path
-     inkscape:connector-curvature="0"
-     id="path4638"
-     d="M 10.000001,104.05685 H 288.47499"
-     style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.26282078px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     inkscape:export-xdpi="159.84"
-     inkscape:export-ydpi="159.84" />
 </svg>
