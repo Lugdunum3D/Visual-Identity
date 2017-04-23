@@ -1,8 +1,8 @@
 # Lugdunum's Visual Identity
 
-This repository attemps to describe the Lugdunum's Game Engine visual identity.
+This repository attemps to describe Lugdunum's visual identity.
 
-## Logo
+## 3D Engine Logo
 
 ![Logos](./logo/logo.png)
 
