@@ -1,5 +1,5 @@
 SRC = logo.svg
-IDS = long short short-shadowed short-dark long-dark
+IDS = long short short-shadowed short-dark long-dark lugbench-long lugbench-short lugbench-short-shadowed lugbench-short-dark lugbench-long-dark
 SVG = $(IDS:%=dist/%.svg)
 PDF = $(IDS:%=dist/pdf/%.pdf)
 DPI = 96 300 600
