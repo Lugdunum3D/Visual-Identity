@@ -11,8 +11,11 @@ all: $(SVG) $(PNG) $(PDF) $(LOGO)
 $(SVG): $(SRC)
 	@echo building $@ $(dir $@) $(basename $(notdir $@))
 	mkdir -p $(dir $@)
-	python ./exportlayers.py $(basename $(notdir $@)) $(SRC) $@
-	inkscape --verb=FitCanvasToDrawing --verb=FileSave --verb=FileQuit $@
+	$(eval tmp = $(shell mktemp --suffix=.svg))
+	python ./exportlayers.py $(basename $(notdir $@)) $(SRC) $(tmp)
+	inkscape --verb=FitCanvasToDrawing --verb=FileSave --verb=FileQuit $(tmp)
+	inkscape --vacuum-defs --file=$(tmp) --export-plain-svg=$@
+	rm $(tmp)
 
 dist/png/96dpi/%.png: dist/%.svg
 	@echo building $@ in $(dir $@) from $^
